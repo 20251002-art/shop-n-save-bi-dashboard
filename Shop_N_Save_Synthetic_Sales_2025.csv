@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Branch,Product,Quantity,Payment_Method,Customer_Type,Category,Unit_Price_FJD,Unit_Cost_FJD,Revenue_FJD,Cost_FJD,Gross_Profit_FJD,Profit_Margin_Pct
+1029,2025-01-01,Lami,Sugar 2kg,10,Card,Occasional,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+849,2025-01-01,Lami,Dishwashing Liquid,2,Card,Occasional,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+756,2025-01-01,Lami,Sugar 2kg,3,Cash,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+992,2025-01-01,Lami,Cooking Oil 1L,5,Mobile Payment,Occasional,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+447,2025-01-01,Nasinu,Sugar 2kg,10,Mobile Payment,Regular,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+1165,2025-01-01,Nabua,Sugar 2kg,8,Cash,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+649,2025-01-01,Nausori,Dishwashing Liquid,10,Card,Occasional,Household,5.8,4.1,58.0,41.0,17.0,29.31
+678,2025-01-01,Nausori,Cooking Oil 1L,6,Card,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+64,2025-01-02,Nausori,Cooking Oil 1L,6,Mobile Payment,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+207,2025-01-02,Nabua,Rice 5kg,8,Card,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+264,2025-01-02,Nabua,Cheese 500g,4,Cash,Occasional,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+896,2025-01-03,Nabua,Milk 1L,5,Mobile Payment,Occasional,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+969,2025-01-04,Nausori,Rice 5kg,8,Card,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+949,2025-01-04,Nabua,Biscuits,2,Mobile Payment,Regular,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+326,2025-01-04,Nausori,Rice 5kg,4,Mobile Payment,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+497,2025-01-04,Lami,Milk 1L,6,Mobile Payment,Occasional,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+1045,2025-01-05,Nasinu,Rice 5kg,7,Mobile Payment,Occasional,Groceries,18.5,14.0,129.5,98.0,31.5,24.32
+1092,2025-01-05,Nasinu,Potato Chips,7,Mobile Payment,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+416,2025-01-05,Nausori,Milk 1L,5,Mobile Payment,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+614,2025-01-05,Lami,Cooking Oil 1L,5,Mobile Payment,Regular,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+129,2025-01-05,Lami,Milk 1L,9,Card,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+721,2025-01-05,Nasinu,Biscuits,3,Cash,Regular,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+843,2025-01-05,Lami,Laundry Powder,2,Card,Occasional,Household,12.0,9.0,24.0,18.0,6.0,25.0
+965,2025-01-06,Nasinu,Laundry Powder,6,Cash,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+335,2025-01-06,Nabua,Laundry Powder,1,Cash,Occasional,Household,12.0,9.0,12.0,9.0,3.0,25.0
+742,2025-01-06,Nausori,Bread,4,Cash,Occasional,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+935,2025-01-06,Nabua,Cooking Oil 1L,9,Cash,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+606,2025-01-07,Lami,Cheese 500g,6,Card,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+895,2025-01-07,Nasinu,Rice 5kg,10,Cash,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+688,2025-01-08,Nasinu,Dishwashing Liquid,5,Card,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+876,2025-01-08,Nabua,Cheese 500g,3,Mobile Payment,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+829,2025-01-08,Lami,Rice 5kg,7,Card,Occasional,Groceries,18.5,14.0,129.5,98.0,31.5,24.32
+98,2025-01-09,Nausori,Milk 1L,3,Card,Regular,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+602,2025-01-09,Nausori,Biscuits,5,Mobile Payment,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+270,2025-01-09,Nausori,Biscuits,8,Mobile Payment,Regular,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+1004,2025-01-10,Nasinu,Bread,1,Cash,Regular,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+485,2025-01-10,Nabua,Potato Chips,4,Card,Regular,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+1091,2025-01-10,Nausori,Cooking Oil 1L,7,Mobile Payment,Regular,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+715,2025-01-10,Nasinu,Laundry Powder,5,Card,Regular,Household,12.0,9.0,60.0,45.0,15.0,25.0
+1123,2025-01-11,Lami,Biscuits,3,Card,Regular,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+682,2025-01-12,Nabua,Rice 5kg,4,Cash,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+519,2025-01-12,Nabua,Laundry Powder,7,Card,Occasional,Household,12.0,9.0,84.0,63.0,21.0,25.0
+852,2025-01-12,Nabua,Laundry Powder,9,Mobile Payment,Occasional,Household,12.0,9.0,108.0,81.0,27.0,25.0
+917,2025-01-13,Nausori,Dishwashing Liquid,10,Cash,Occasional,Household,5.8,4.1,58.0,41.0,17.0,29.31
+1008,2025-01-13,Nabua,Rice 5kg,2,Cash,Regular,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+152,2025-01-13,Nasinu,Dishwashing Liquid,3,Cash,Regular,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+379,2025-01-13,Nabua,Bread,6,Cash,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+555,2025-01-13,Nasinu,Biscuits,8,Card,Regular,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+886,2025-01-14,Lami,Cheese 500g,6,Mobile Payment,Regular,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+676,2025-01-14,Nausori,Dishwashing Liquid,3,Cash,Regular,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+51,2025-01-14,Nabua,Laundry Powder,10,Mobile Payment,Regular,Household,12.0,9.0,120.0,90.0,30.0,25.0
+892,2025-01-14,Nasinu,Cheese 500g,3,Card,Occasional,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+1058,2025-01-14,Nabua,Bread,10,Card,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+135,2025-01-15,Lami,Dishwashing Liquid,10,Mobile Payment,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+1104,2025-01-15,Nabua,Biscuits,8,Cash,Regular,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+1078,2025-01-15,Lami,Bread,6,Mobile Payment,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+904,2025-01-15,Nabua,Milk 1L,9,Card,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+93,2025-01-15,Nasinu,Cheese 500g,1,Mobile Payment,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+498,2025-01-16,Lami,Milk 1L,6,Card,Regular,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+330,2025-01-17,Nasinu,Milk 1L,4,Cash,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+1184,2025-01-17,Nausori,Biscuits,2,Mobile Payment,Regular,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+353,2025-01-18,Nausori,Sugar 2kg,6,Mobile Payment,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+567,2025-01-19,Nasinu,Cheese 500g,8,Mobile Payment,Regular,Dairy,9.5,7.2,76.0,57.6,18.4,24.21
+637,2025-01-19,Nabua,Milk 1L,4,Card,Regular,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+672,2025-01-20,Nasinu,Dishwashing Liquid,7,Cash,Regular,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+384,2025-01-20,Lami,Cooking Oil 1L,5,Card,Regular,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+988,2025-01-20,Lami,Bread,10,Cash,Regular,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+45,2025-01-21,Nabua,Milk 1L,8,Card,Occasional,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+7,2025-01-21,Lami,Cheese 500g,9,Mobile Payment,Regular,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+26,2025-01-22,Lami,Rice 5kg,4,Mobile Payment,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+308,2025-01-22,Lami,Bread,3,Card,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+847,2025-01-22,Nasinu,Cooking Oil 1L,9,Cash,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+748,2025-01-23,Nasinu,Cheese 500g,1,Card,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+1063,2025-01-23,Nausori,Biscuits,9,Mobile Payment,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+1130,2025-01-23,Lami,Cheese 500g,1,Cash,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+483,2025-01-23,Nausori,Cheese 500g,2,Mobile Payment,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+1191,2025-01-25,Lami,Potato Chips,8,Cash,Regular,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+1178,2025-01-25,Nasinu,Potato Chips,6,Mobile Payment,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+915,2025-01-25,Nasinu,Bread,4,Mobile Payment,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+919,2025-01-25,Nausori,Potato Chips,6,Cash,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+581,2025-01-25,Nasinu,Laundry Powder,1,Mobile Payment,Occasional,Household,12.0,9.0,12.0,9.0,3.0,25.0
+978,2025-01-26,Lami,Cooking Oil 1L,1,Mobile Payment,Regular,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+376,2025-01-26,Nausori,Milk 1L,9,Cash,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+873,2025-01-26,Nasinu,Biscuits,4,Card,Occasional,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+317,2025-01-27,Nabua,Cooking Oil 1L,7,Mobile Payment,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+165,2025-01-28,Nabua,Dishwashing Liquid,6,Card,Regular,Household,5.8,4.1,34.8,24.599999999999998,10.2,29.31
+887,2025-01-28,Lami,Sugar 2kg,9,Cash,Occasional,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+697,2025-01-28,Nausori,Milk 1L,5,Mobile Payment,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+907,2025-01-28,Nabua,Bread,4,Cash,Occasional,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+110,2025-01-28,Nabua,Dishwashing Liquid,5,Mobile Payment,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+150,2025-01-29,Nasinu,Potato Chips,5,Cash,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+1153,2025-01-29,Nasinu,Rice 5kg,9,Card,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+615,2025-01-29,Lami,Dishwashing Liquid,3,Cash,Occasional,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+802,2025-01-30,Nasinu,Sugar 2kg,8,Card,Regular,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+960,2025-01-31,Lami,Cheese 500g,3,Cash,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+508,2025-02-02,Nabua,Potato Chips,6,Cash,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+306,2025-02-02,Nabua,Potato Chips,6,Cash,Occasional,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+115,2025-02-02,Lami,Milk 1L,4,Mobile Payment,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+855,2025-02-03,Nabua,Cheese 500g,7,Mobile Payment,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+762,2025-02-03,Nabua,Potato Chips,2,Card,Occasional,Snacks,3.5,2.2,7.0,4.4,2.5999999999999996,37.14
+928,2025-02-03,Nasinu,Sugar 2kg,9,Card,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+815,2025-02-03,Nasinu,Milk 1L,1,Mobile Payment,Occasional,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+1028,2025-02-04,Nabua,Cooking Oil 1L,8,Mobile Payment,Occasional,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+124,2025-02-04,Lami,Dishwashing Liquid,7,Mobile Payment,Regular,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+524,2025-02-04,Nausori,Bread,10,Card,Regular,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+327,2025-02-04,Lami,Milk 1L,9,Card,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+709,2025-02-04,Nausori,Bread,6,Card,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+59,2025-02-04,Nausori,Cheese 500g,5,Cash,Regular,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+151,2025-02-05,Nabua,Rice 5kg,2,Cash,Occasional,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+382,2025-02-05,Nabua,Cheese 500g,5,Cash,Occasional,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+963,2025-02-05,Nasinu,Rice 5kg,3,Cash,Occasional,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+546,2025-02-05,Nasinu,Bread,9,Card,Occasional,Bakery,2.5,1.6,22.5,14.4,8.1,36.0
+338,2025-02-06,Nabua,Potato Chips,7,Cash,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+268,2025-02-06,Nabua,Sugar 2kg,4,Card,Occasional,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+552,2025-02-06,Nasinu,Milk 1L,5,Cash,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+1127,2025-02-07,Nasinu,Cooking Oil 1L,7,Card,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+311,2025-02-07,Lami,Milk 1L,10,Card,Occasional,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+1018,2025-02-07,Lami,Milk 1L,2,Mobile Payment,Regular,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+1084,2025-02-07,Nasinu,Dishwashing Liquid,10,Mobile Payment,Occasional,Household,5.8,4.1,58.0,41.0,17.0,29.31
+996,2025-02-07,Nasinu,Milk 1L,10,Card,Regular,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+250,2025-02-08,Nausori,Rice 5kg,9,Mobile Payment,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+586,2025-02-08,Nasinu,Laundry Powder,4,Card,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+638,2025-02-08,Nasinu,Milk 1L,10,Cash,Occasional,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+766,2025-02-08,Nasinu,Laundry Powder,3,Card,Occasional,Household,12.0,9.0,36.0,27.0,9.0,25.0
+477,2025-02-08,Lami,Cooking Oil 1L,6,Cash,Regular,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+373,2025-02-08,Nabua,Rice 5kg,4,Cash,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+1072,2025-02-08,Nasinu,Biscuits,8,Card,Regular,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+909,2025-02-08,Nabua,Laundry Powder,1,Card,Regular,Household,12.0,9.0,12.0,9.0,3.0,25.0
+961,2025-02-09,Nausori,Milk 1L,4,Card,Regular,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+109,2025-02-10,Nasinu,Potato Chips,7,Mobile Payment,Occasional,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+700,2025-02-10,Lami,Milk 1L,8,Cash,Occasional,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+91,2025-02-10,Nausori,Bread,4,Cash,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+933,2025-02-11,Nabua,Rice 5kg,8,Card,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+1052,2025-02-11,Nabua,Dishwashing Liquid,3,Mobile Payment,Occasional,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+137,2025-02-11,Nabua,Bread,6,Card,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+1077,2025-02-11,Nasinu,Bread,2,Cash,Regular,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+589,2025-02-11,Nasinu,Milk 1L,2,Card,Regular,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+516,2025-02-12,Nabua,Sugar 2kg,9,Mobile Payment,Occasional,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+821,2025-02-12,Nabua,Potato Chips,2,Card,Occasional,Snacks,3.5,2.2,7.0,4.4,2.5999999999999996,37.14
+167,2025-02-13,Lami,Biscuits,5,Cash,Regular,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+71,2025-02-13,Lami,Dishwashing Liquid,6,Mobile Payment,Regular,Household,5.8,4.1,34.8,24.599999999999998,10.2,29.31
+657,2025-02-13,Nausori,Biscuits,8,Cash,Regular,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+517,2025-02-13,Nausori,Biscuits,2,Cash,Regular,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+161,2025-02-14,Nabua,Laundry Powder,1,Mobile Payment,Occasional,Household,12.0,9.0,12.0,9.0,3.0,25.0
+334,2025-02-15,Lami,Bread,10,Card,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+708,2025-02-15,Lami,Milk 1L,10,Mobile Payment,Regular,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+854,2025-02-15,Nabua,Cheese 500g,1,Card,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+422,2025-02-16,Nasinu,Milk 1L,7,Mobile Payment,Regular,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+991,2025-02-16,Nausori,Cooking Oil 1L,2,Cash,Regular,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+862,2025-02-16,Nasinu,Milk 1L,8,Cash,Regular,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+673,2025-02-16,Nausori,Cheese 500g,6,Cash,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+1109,2025-02-16,Nabua,Bread,3,Cash,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+471,2025-02-16,Nasinu,Milk 1L,4,Cash,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+870,2025-02-17,Nausori,Bread,4,Mobile Payment,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+453,2025-02-17,Nabua,Biscuits,5,Mobile Payment,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+116,2025-02-17,Nabua,Dishwashing Liquid,6,Mobile Payment,Regular,Household,5.8,4.1,34.8,24.599999999999998,10.2,29.31
+30,2025-02-18,Nabua,Laundry Powder,3,Cash,Regular,Household,12.0,9.0,36.0,27.0,9.0,25.0
+329,2025-02-18,Nasinu,Bread,5,Cash,Regular,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+62,2025-02-19,Nabua,Biscuits,3,Card,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+757,2025-02-20,Nabua,Cheese 500g,4,Card,Regular,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+395,2025-02-20,Nausori,Bread,6,Cash,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+841,2025-02-20,Nasinu,Milk 1L,10,Mobile Payment,Occasional,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+805,2025-02-20,Nausori,Bread,5,Card,Regular,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+1152,2025-02-20,Nabua,Milk 1L,2,Cash,Regular,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+314,2025-02-20,Nasinu,Cooking Oil 1L,1,Mobile Payment,Occasional,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+37,2025-02-20,Lami,Laundry Powder,4,Mobile Payment,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+198,2025-02-21,Nabua,Cooking Oil 1L,5,Card,Regular,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+143,2025-02-21,Lami,Laundry Powder,8,Mobile Payment,Occasional,Household,12.0,9.0,96.0,72.0,24.0,25.0
+576,2025-02-21,Lami,Milk 1L,4,Card,Regular,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+817,2025-02-22,Lami,Milk 1L,9,Cash,Regular,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+55,2025-02-22,Nasinu,Potato Chips,5,Card,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+86,2025-02-22,Lami,Cheese 500g,10,Mobile Payment,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+216,2025-02-22,Nausori,Milk 1L,2,Cash,Occasional,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+413,2025-02-22,Nabua,Cooking Oil 1L,10,Mobile Payment,Occasional,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+749,2025-02-22,Nasinu,Dishwashing Liquid,1,Card,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+582,2025-02-22,Lami,Dishwashing Liquid,7,Card,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+210,2025-02-23,Nasinu,Laundry Powder,2,Cash,Regular,Household,12.0,9.0,24.0,18.0,6.0,25.0
+65,2025-02-23,Nabua,Laundry Powder,4,Mobile Payment,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+774,2025-02-23,Nausori,Dishwashing Liquid,1,Mobile Payment,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+278,2025-02-23,Nausori,Biscuits,1,Mobile Payment,Occasional,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+410,2025-02-23,Nasinu,Cheese 500g,10,Mobile Payment,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+679,2025-02-23,Nabua,Rice 5kg,4,Mobile Payment,Occasional,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+356,2025-02-23,Nabua,Sugar 2kg,1,Cash,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+1167,2025-02-24,Nabua,Bread,4,Card,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+39,2025-02-24,Nabua,Laundry Powder,6,Card,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+866,2025-02-25,Nasinu,Cooking Oil 1L,10,Card,Regular,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+884,2025-02-25,Nasinu,Biscuits,9,Mobile Payment,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+585,2025-02-26,Nabua,Sugar 2kg,2,Mobile Payment,Occasional,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+645,2025-02-27,Nausori,Rice 5kg,4,Mobile Payment,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+437,2025-02-27,Nasinu,Laundry Powder,8,Cash,Regular,Household,12.0,9.0,96.0,72.0,24.0,25.0
+445,2025-02-27,Nabua,Cheese 500g,2,Card,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+403,2025-02-27,Nasinu,Rice 5kg,10,Cash,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+357,2025-02-27,Nabua,Sugar 2kg,4,Card,Regular,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+656,2025-02-27,Lami,Rice 5kg,5,Card,Regular,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+31,2025-02-28,Nasinu,Dishwashing Liquid,1,Mobile Payment,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+414,2025-03-01,Nabua,Rice 5kg,9,Cash,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+1032,2025-03-01,Nausori,Cheese 500g,5,Card,Regular,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+263,2025-03-01,Nabua,Laundry Powder,2,Mobile Payment,Regular,Household,12.0,9.0,24.0,18.0,6.0,25.0
+871,2025-03-02,Lami,Rice 5kg,9,Cash,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+839,2025-03-02,Nabua,Bread,8,Card,Regular,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+1048,2025-03-03,Nasinu,Potato Chips,5,Cash,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+117,2025-03-03,Nausori,Laundry Powder,3,Mobile Payment,Occasional,Household,12.0,9.0,36.0,27.0,9.0,25.0
+562,2025-03-03,Nausori,Bread,3,Cash,Occasional,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+974,2025-03-03,Nasinu,Bread,6,Card,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+162,2025-03-03,Nabua,Sugar 2kg,1,Mobile Payment,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+102,2025-03-04,Lami,Bread,8,Cash,Regular,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+139,2025-03-04,Nabua,Cheese 500g,10,Mobile Payment,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+1198,2025-03-04,Lami,Cooking Oil 1L,4,Mobile Payment,Occasional,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+1064,2025-03-04,Nasinu,Biscuits,6,Mobile Payment,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+1176,2025-03-04,Nasinu,Bread,3,Mobile Payment,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+732,2025-03-04,Nausori,Potato Chips,10,Mobile Payment,Occasional,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+398,2025-03-04,Nausori,Biscuits,4,Mobile Payment,Regular,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+513,2025-03-06,Nabua,Dishwashing Liquid,10,Mobile Payment,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+95,2025-03-06,Nausori,Biscuits,3,Cash,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+724,2025-03-06,Nasinu,Potato Chips,9,Card,Regular,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+159,2025-03-07,Lami,Biscuits,1,Mobile Payment,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+785,2025-03-07,Nasinu,Biscuits,2,Mobile Payment,Occasional,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+1075,2025-03-08,Lami,Potato Chips,5,Cash,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+921,2025-03-08,Nabua,Rice 5kg,10,Mobile Payment,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+299,2025-03-09,Nausori,Milk 1L,2,Cash,Occasional,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+920,2025-03-09,Nausori,Dishwashing Liquid,1,Mobile Payment,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+470,2025-03-10,Nausori,Cheese 500g,8,Card,Regular,Dairy,9.5,7.2,76.0,57.6,18.4,24.21
+1121,2025-03-10,Lami,Biscuits,10,Cash,Regular,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+814,2025-03-10,Lami,Cheese 500g,8,Mobile Payment,Regular,Dairy,9.5,7.2,76.0,57.6,18.4,24.21
+459,2025-03-10,Nabua,Cheese 500g,1,Cash,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+1022,2025-03-10,Nausori,Laundry Powder,3,Mobile Payment,Regular,Household,12.0,9.0,36.0,27.0,9.0,25.0
+579,2025-03-10,Lami,Dishwashing Liquid,3,Mobile Payment,Regular,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+947,2025-03-11,Nabua,Rice 5kg,9,Card,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+628,2025-03-11,Lami,Rice 5kg,10,Cash,Occasional,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+5,2025-03-13,Nausori,Potato Chips,3,Mobile Payment,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+765,2025-03-13,Lami,Cooking Oil 1L,8,Card,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+859,2025-03-14,Lami,Potato Chips,9,Cash,Regular,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+603,2025-03-15,Lami,Bread,10,Mobile Payment,Regular,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+786,2025-03-16,Nausori,Bread,8,Card,Occasional,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+1180,2025-03-16,Nausori,Rice 5kg,7,Card,Regular,Groceries,18.5,14.0,129.5,98.0,31.5,24.32
+968,2025-03-16,Nausori,Cooking Oil 1L,8,Cash,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+536,2025-03-16,Nabua,Rice 5kg,8,Mobile Payment,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+282,2025-03-16,Nasinu,Cheese 500g,10,Card,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+1027,2025-03-17,Nasinu,Rice 5kg,4,Cash,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+571,2025-03-17,Nasinu,Potato Chips,1,Card,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+463,2025-03-17,Nabua,Biscuits,9,Card,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+601,2025-03-17,Nabua,Cooking Oil 1L,9,Cash,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+856,2025-03-19,Nausori,Potato Chips,3,Mobile Payment,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+755,2025-03-19,Nabua,Cheese 500g,1,Mobile Payment,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+888,2025-03-19,Nabua,Milk 1L,4,Mobile Payment,Regular,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+1047,2025-03-19,Lami,Biscuits,1,Cash,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+664,2025-03-21,Nasinu,Rice 5kg,9,Cash,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+104,2025-03-22,Nabua,Sugar 2kg,9,Cash,Occasional,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+204,2025-03-22,Nasinu,Milk 1L,4,Cash,Regular,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+61,2025-03-22,Lami,Dishwashing Liquid,5,Card,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+806,2025-03-22,Nausori,Potato Chips,5,Mobile Payment,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+711,2025-03-23,Nabua,Bread,1,Card,Regular,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+752,2025-03-24,Lami,Laundry Powder,4,Cash,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+932,2025-03-24,Lami,Bread,3,Mobile Payment,Occasional,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+1011,2025-03-25,Lami,Potato Chips,6,Card,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+563,2025-03-25,Nasinu,Cooking Oil 1L,10,Mobile Payment,Regular,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+754,2025-03-26,Nausori,Dishwashing Liquid,2,Card,Occasional,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+1089,2025-03-27,Nasinu,Laundry Powder,9,Mobile Payment,Occasional,Household,12.0,9.0,108.0,81.0,27.0,25.0
+466,2025-03-27,Lami,Potato Chips,10,Cash,Occasional,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+912,2025-03-27,Nabua,Cheese 500g,3,Card,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+157,2025-03-27,Nabua,Cooking Oil 1L,8,Card,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+12,2025-03-29,Nabua,Biscuits,6,Mobile Payment,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+49,2025-03-30,Nabua,Sugar 2kg,10,Card,Occasional,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+1050,2025-03-30,Nasinu,Laundry Powder,6,Mobile Payment,Occasional,Household,12.0,9.0,72.0,54.0,18.0,25.0
+1053,2025-03-30,Lami,Milk 1L,7,Cash,Regular,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+454,2025-03-30,Nasinu,Potato Chips,8,Mobile Payment,Occasional,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+692,2025-03-31,Lami,Milk 1L,6,Mobile Payment,Regular,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+993,2025-03-31,Nabua,Dishwashing Liquid,2,Mobile Payment,Occasional,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+530,2025-03-31,Nasinu,Potato Chips,5,Mobile Payment,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+1179,2025-03-31,Nasinu,Sugar 2kg,8,Mobile Payment,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+527,2025-03-31,Nausori,Cheese 500g,3,Card,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+634,2025-04-01,Nasinu,Cheese 500g,3,Card,Occasional,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+1150,2025-04-02,Nasinu,Cooking Oil 1L,3,Card,Occasional,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+57,2025-04-02,Nasinu,Biscuits,5,Cash,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+844,2025-04-02,Lami,Sugar 2kg,6,Card,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+436,2025-04-02,Nabua,Laundry Powder,9,Cash,Regular,Household,12.0,9.0,108.0,81.0,27.0,25.0
+389,2025-04-02,Nabua,Bread,1,Cash,Occasional,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+529,2025-04-03,Nabua,Rice 5kg,1,Cash,Regular,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+837,2025-04-03,Nausori,Milk 1L,9,Card,Regular,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+1019,2025-04-04,Lami,Milk 1L,7,Card,Occasional,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+973,2025-04-04,Lami,Potato Chips,9,Cash,Regular,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+472,2025-04-04,Nausori,Cheese 500g,1,Card,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+1020,2025-04-05,Nabua,Potato Chips,3,Card,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+764,2025-04-05,Lami,Cooking Oil 1L,4,Cash,Occasional,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+1114,2025-04-05,Nasinu,Rice 5kg,5,Card,Occasional,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+828,2025-04-05,Nabua,Dishwashing Liquid,7,Mobile Payment,Regular,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+954,2025-04-05,Lami,Laundry Powder,1,Mobile Payment,Regular,Household,12.0,9.0,12.0,9.0,3.0,25.0
+520,2025-04-05,Nasinu,Potato Chips,7,Cash,Occasional,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+343,2025-04-05,Nabua,Milk 1L,9,Cash,Regular,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+494,2025-04-06,Nabua,Sugar 2kg,10,Mobile Payment,Regular,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+144,2025-04-06,Lami,Dishwashing Liquid,7,Mobile Payment,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+450,2025-04-06,Lami,Potato Chips,8,Card,Regular,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+193,2025-04-06,Nausori,Biscuits,1,Cash,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+547,2025-04-06,Nausori,Laundry Powder,5,Mobile Payment,Occasional,Household,12.0,9.0,60.0,45.0,15.0,25.0
+321,2025-04-07,Nausori,Dishwashing Liquid,5,Card,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+234,2025-04-07,Nabua,Bread,7,Card,Occasional,Bakery,2.5,1.6,17.5,11.200000000000001,6.299999999999999,36.0
+1085,2025-04-07,Nasinu,Potato Chips,10,Card,Regular,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+738,2025-04-08,Nabua,Milk 1L,9,Card,Regular,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+230,2025-04-08,Nasinu,Bread,2,Cash,Regular,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+793,2025-04-08,Nausori,Rice 5kg,8,Cash,Regular,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+336,2025-04-09,Lami,Cheese 500g,5,Mobile Payment,Occasional,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+344,2025-04-09,Nasinu,Milk 1L,7,Card,Occasional,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+740,2025-04-09,Lami,Rice 5kg,6,Mobile Payment,Regular,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+272,2025-04-09,Nausori,Cheese 500g,7,Mobile Payment,Occasional,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+257,2025-04-09,Nausori,Bread,4,Mobile Payment,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+580,2025-04-09,Nausori,Sugar 2kg,3,Mobile Payment,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+545,2025-04-09,Lami,Bread,6,Cash,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+120,2025-04-09,Nasinu,Biscuits,6,Cash,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+289,2025-04-09,Nasinu,Biscuits,2,Card,Occasional,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+569,2025-04-10,Lami,Dishwashing Liquid,2,Mobile Payment,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+488,2025-04-10,Nausori,Rice 5kg,8,Mobile Payment,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+13,2025-04-10,Lami,Dishwashing Liquid,4,Mobile Payment,Regular,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+478,2025-04-10,Nausori,Biscuits,9,Card,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+1160,2025-04-11,Nausori,Laundry Powder,2,Card,Regular,Household,12.0,9.0,24.0,18.0,6.0,25.0
+1014,2025-04-11,Lami,Cheese 500g,5,Mobile Payment,Occasional,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+411,2025-04-11,Nabua,Milk 1L,6,Card,Occasional,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+934,2025-04-11,Lami,Cheese 500g,1,Mobile Payment,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+202,2025-04-11,Nabua,Dishwashing Liquid,9,Cash,Regular,Household,5.8,4.1,52.199999999999996,36.9,15.299999999999997,29.31
+126,2025-04-11,Nausori,Potato Chips,1,Mobile Payment,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+510,2025-04-11,Nausori,Bread,4,Card,Occasional,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+417,2025-04-13,Nabua,Biscuits,6,Cash,Regular,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+1,2025-04-13,Lami,Sugar 2kg,5,Cash,Regular,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+787,2025-04-13,Lami,Rice 5kg,6,Cash,Occasional,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+8,2025-04-13,Nasinu,Bread,7,Card,Occasional,Bakery,2.5,1.6,17.5,11.200000000000001,6.299999999999999,36.0
+1057,2025-04-14,Nausori,Cooking Oil 1L,5,Card,Regular,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+369,2025-04-14,Nausori,Milk 1L,8,Card,Regular,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+1070,2025-04-14,Nabua,Potato Chips,1,Card,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+1071,2025-04-14,Lami,Sugar 2kg,7,Mobile Payment,Occasional,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+1137,2025-04-14,Lami,Laundry Powder,6,Mobile Payment,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+1140,2025-04-14,Nabua,Rice 5kg,8,Cash,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+284,2025-04-14,Nabua,Laundry Powder,6,Card,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+532,2025-04-15,Nausori,Cooking Oil 1L,2,Cash,Regular,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+739,2025-04-15,Nasinu,Sugar 2kg,6,Cash,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+429,2025-04-16,Nausori,Dishwashing Liquid,7,Mobile Payment,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+804,2025-04-16,Lami,Biscuits,1,Mobile Payment,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+1149,2025-04-16,Nausori,Cheese 500g,7,Card,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+66,2025-04-16,Nabua,Rice 5kg,2,Card,Occasional,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+4,2025-04-17,Nasinu,Biscuits,2,Mobile Payment,Regular,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+868,2025-04-17,Nausori,Sugar 2kg,7,Card,Regular,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+166,2025-04-18,Nausori,Rice 5kg,3,Mobile Payment,Regular,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+415,2025-04-18,Nausori,Cheese 500g,2,Mobile Payment,Regular,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+587,2025-04-19,Lami,Laundry Powder,4,Mobile Payment,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+923,2025-04-19,Nabua,Cooking Oil 1L,6,Card,Regular,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+1162,2025-04-20,Nasinu,Sugar 2kg,6,Mobile Payment,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+1079,2025-04-21,Nabua,Bread,6,Cash,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+925,2025-04-21,Nausori,Sugar 2kg,3,Cash,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+823,2025-04-21,Nasinu,Bread,4,Card,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+1139,2025-04-21,Nausori,Biscuits,8,Mobile Payment,Occasional,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+897,2025-04-21,Nasinu,Laundry Powder,6,Cash,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+927,2025-04-21,Lami,Cooking Oil 1L,5,Card,Occasional,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+929,2025-04-21,Nabua,Dishwashing Liquid,4,Mobile Payment,Occasional,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+262,2025-04-22,Lami,Rice 5kg,2,Mobile Payment,Occasional,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+948,2025-04-22,Nabua,Potato Chips,5,Card,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+779,2025-04-22,Nasinu,Rice 5kg,3,Mobile Payment,Regular,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+288,2025-04-22,Lami,Milk 1L,8,Card,Regular,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+989,2025-04-23,Nasinu,Laundry Powder,8,Card,Regular,Household,12.0,9.0,96.0,72.0,24.0,25.0
+206,2025-04-23,Nabua,Cheese 500g,2,Card,Regular,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+203,2025-04-23,Nasinu,Biscuits,1,Mobile Payment,Occasional,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+196,2025-04-23,Lami,Biscuits,5,Cash,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+877,2025-04-23,Lami,Milk 1L,2,Card,Occasional,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+283,2025-04-23,Nabua,Sugar 2kg,2,Mobile Payment,Regular,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+201,2025-04-23,Nabua,Bread,5,Mobile Payment,Occasional,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+535,2025-04-24,Nabua,Biscuits,10,Mobile Payment,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+362,2025-04-24,Nausori,Laundry Powder,8,Cash,Regular,Household,12.0,9.0,96.0,72.0,24.0,25.0
+1115,2025-04-25,Lami,Laundry Powder,7,Cash,Regular,Household,12.0,9.0,84.0,63.0,21.0,25.0
+531,2025-04-25,Nasinu,Cheese 500g,2,Card,Regular,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+281,2025-04-26,Nabua,Laundry Powder,10,Card,Occasional,Household,12.0,9.0,120.0,90.0,30.0,25.0
+346,2025-04-26,Nabua,Bread,2,Cash,Occasional,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+178,2025-04-26,Nasinu,Cheese 500g,9,Cash,Occasional,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+440,2025-04-27,Lami,Rice 5kg,4,Cash,Occasional,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+1173,2025-04-27,Nausori,Bread,4,Mobile Payment,Occasional,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+654,2025-04-27,Nasinu,Milk 1L,1,Mobile Payment,Occasional,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+972,2025-04-28,Nasinu,Sugar 2kg,1,Mobile Payment,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+983,2025-04-28,Nabua,Potato Chips,8,Mobile Payment,Occasional,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+770,2025-04-28,Nasinu,Rice 5kg,1,Mobile Payment,Regular,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+452,2025-04-28,Nasinu,Rice 5kg,7,Card,Regular,Groceries,18.5,14.0,129.5,98.0,31.5,24.32
+1096,2025-04-28,Lami,Rice 5kg,8,Card,Regular,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+906,2025-04-29,Nabua,Sugar 2kg,1,Mobile Payment,Regular,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+722,2025-04-29,Lami,Cooking Oil 1L,4,Cash,Regular,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+433,2025-04-30,Nabua,Laundry Powder,8,Mobile Payment,Regular,Household,12.0,9.0,96.0,72.0,24.0,25.0
+279,2025-04-30,Nasinu,Sugar 2kg,9,Card,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+863,2025-05-01,Nasinu,Bread,10,Card,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+177,2025-05-01,Nasinu,Bread,2,Card,Occasional,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+689,2025-05-02,Nasinu,Cooking Oil 1L,9,Card,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+9,2025-05-02,Nasinu,Sugar 2kg,8,Cash,Regular,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+446,2025-05-02,Nabua,Biscuits,7,Card,Occasional,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+840,2025-05-02,Nasinu,Biscuits,10,Cash,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+612,2025-05-02,Lami,Potato Chips,8,Mobile Payment,Regular,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+592,2025-05-02,Nasinu,Dishwashing Liquid,2,Cash,Occasional,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+225,2025-05-03,Nausori,Cooking Oil 1L,6,Card,Regular,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+1093,2025-05-03,Lami,Cooking Oil 1L,6,Card,Regular,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+236,2025-05-04,Nabua,Cooking Oil 1L,7,Mobile Payment,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+428,2025-05-04,Nausori,Bread,4,Mobile Payment,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+400,2025-05-05,Lami,Potato Chips,9,Card,Occasional,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+1061,2025-05-05,Nabua,Cooking Oil 1L,7,Mobile Payment,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+819,2025-05-06,Nausori,Bread,6,Mobile Payment,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+639,2025-05-06,Nausori,Potato Chips,3,Cash,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+214,2025-05-06,Nausori,Laundry Powder,8,Card,Regular,Household,12.0,9.0,96.0,72.0,24.0,25.0
+451,2025-05-06,Nasinu,Rice 5kg,9,Mobile Payment,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+913,2025-05-06,Nausori,Potato Chips,1,Mobile Payment,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+644,2025-05-06,Lami,Cooking Oil 1L,8,Cash,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+1148,2025-05-07,Nasinu,Sugar 2kg,9,Cash,Occasional,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+883,2025-05-07,Lami,Rice 5kg,10,Cash,Occasional,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+443,2025-05-07,Nausori,Dishwashing Liquid,9,Cash,Regular,Household,5.8,4.1,52.199999999999996,36.9,15.299999999999997,29.31
+366,2025-05-07,Lami,Cooking Oil 1L,3,Mobile Payment,Occasional,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+1185,2025-05-08,Nabua,Dishwashing Liquid,1,Card,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+171,2025-05-08,Nausori,Cooking Oil 1L,6,Mobile Payment,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+352,2025-05-08,Nasinu,Cooking Oil 1L,6,Mobile Payment,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+305,2025-05-08,Nabua,Cooking Oil 1L,1,Cash,Occasional,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+249,2025-05-08,Lami,Biscuits,9,Mobile Payment,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+100,2025-05-09,Lami,Milk 1L,3,Card,Regular,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+444,2025-05-09,Nasinu,Potato Chips,2,Cash,Regular,Snacks,3.5,2.2,7.0,4.4,2.5999999999999996,37.14
+253,2025-05-09,Nasinu,Cooking Oil 1L,7,Mobile Payment,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+1010,2025-05-10,Lami,Rice 5kg,1,Card,Regular,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+215,2025-05-10,Nasinu,Biscuits,3,Card,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+208,2025-05-10,Lami,Milk 1L,7,Card,Occasional,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+1113,2025-05-10,Nasinu,Cheese 500g,1,Cash,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+16,2025-05-11,Lami,Sugar 2kg,7,Card,Regular,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+127,2025-05-11,Lami,Milk 1L,8,Card,Occasional,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+42,2025-05-11,Nausori,Milk 1L,1,Mobile Payment,Regular,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+276,2025-05-11,Nasinu,Milk 1L,2,Card,Occasional,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+1049,2025-05-12,Nausori,Bread,9,Cash,Occasional,Bakery,2.5,1.6,22.5,14.4,8.1,36.0
+626,2025-05-12,Nasinu,Laundry Powder,4,Cash,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+1145,2025-05-13,Nabua,Milk 1L,3,Cash,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+745,2025-05-13,Nausori,Milk 1L,1,Mobile Payment,Regular,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+850,2025-05-13,Nasinu,Potato Chips,10,Card,Regular,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+593,2025-05-13,Nasinu,Dishwashing Liquid,1,Card,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+807,2025-05-13,Nabua,Potato Chips,1,Mobile Payment,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+981,2025-05-13,Nabua,Rice 5kg,9,Cash,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+971,2025-05-14,Lami,Biscuits,10,Cash,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+1074,2025-05-14,Nabua,Rice 5kg,2,Cash,Occasional,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+163,2025-05-14,Lami,Cooking Oil 1L,8,Mobile Payment,Occasional,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+1128,2025-05-14,Nausori,Potato Chips,5,Cash,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+655,2025-05-14,Nasinu,Biscuits,7,Card,Occasional,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+111,2025-05-15,Nasinu,Milk 1L,8,Cash,Occasional,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+44,2025-05-15,Nabua,Bread,5,Mobile Payment,Occasional,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+303,2025-05-15,Lami,Bread,3,Cash,Occasional,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+693,2025-05-16,Lami,Rice 5kg,4,Card,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+618,2025-05-16,Nausori,Cheese 500g,3,Card,Occasional,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+1106,2025-05-16,Lami,Cheese 500g,1,Card,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+101,2025-05-16,Nabua,Cheese 500g,2,Mobile Payment,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+1026,2025-05-17,Nabua,Biscuits,1,Card,Occasional,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+183,2025-05-17,Nausori,Laundry Powder,3,Card,Regular,Household,12.0,9.0,36.0,27.0,9.0,25.0
+957,2025-05-17,Nausori,Cooking Oil 1L,10,Mobile Payment,Occasional,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+1170,2025-05-17,Nabua,Biscuits,2,Mobile Payment,Regular,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+1006,2025-05-18,Nasinu,Milk 1L,3,Mobile Payment,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+809,2025-05-18,Lami,Dishwashing Liquid,1,Cash,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+998,2025-05-19,Nabua,Laundry Powder,4,Card,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+103,2025-05-19,Lami,Cooking Oil 1L,6,Card,Regular,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+990,2025-05-20,Nausori,Cooking Oil 1L,4,Cash,Regular,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+267,2025-05-20,Nasinu,Bread,6,Cash,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+1136,2025-05-21,Lami,Potato Chips,9,Card,Regular,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+608,2025-05-21,Nasinu,Milk 1L,8,Card,Occasional,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+641,2025-05-21,Nausori,Sugar 2kg,1,Card,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+387,2025-05-22,Lami,Biscuits,2,Card,Occasional,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+994,2025-05-22,Nausori,Cooking Oil 1L,2,Cash,Occasional,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+1065,2025-05-23,Nasinu,Milk 1L,9,Cash,Regular,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+388,2025-05-23,Nasinu,Cheese 500g,6,Mobile Payment,Regular,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+148,2025-05-23,Lami,Dishwashing Liquid,1,Card,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+677,2025-05-23,Nabua,Sugar 2kg,3,Mobile Payment,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+584,2025-05-24,Nabua,Biscuits,1,Cash,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+233,2025-05-24,Nabua,Sugar 2kg,8,Card,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+465,2025-05-24,Nasinu,Cooking Oil 1L,9,Mobile Payment,Regular,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+426,2025-05-24,Lami,Laundry Powder,9,Cash,Regular,Household,12.0,9.0,108.0,81.0,27.0,25.0
+578,2025-05-24,Nabua,Cooking Oil 1L,5,Cash,Regular,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+681,2025-05-24,Lami,Bread,3,Card,Occasional,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+260,2025-05-24,Nausori,Potato Chips,4,Cash,Occasional,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+703,2025-05-25,Nabua,Sugar 2kg,10,Cash,Regular,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+432,2025-05-25,Nasinu,Rice 5kg,9,Cash,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+753,2025-05-25,Nabua,Cheese 500g,4,Card,Occasional,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+1067,2025-05-25,Nasinu,Cooking Oil 1L,7,Mobile Payment,Regular,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+916,2025-05-25,Lami,Cooking Oil 1L,9,Cash,Regular,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+622,2025-05-25,Nasinu,Cheese 500g,10,Cash,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+725,2025-05-26,Nausori,Dishwashing Liquid,8,Cash,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+924,2025-05-26,Nasinu,Milk 1L,2,Card,Occasional,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+599,2025-05-26,Nasinu,Laundry Powder,10,Card,Regular,Household,12.0,9.0,120.0,90.0,30.0,25.0
+671,2025-05-27,Lami,Laundry Powder,7,Cash,Regular,Household,12.0,9.0,84.0,63.0,21.0,25.0
+325,2025-05-27,Lami,Bread,1,Card,Regular,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+244,2025-05-27,Nausori,Cheese 500g,5,Card,Regular,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+493,2025-05-27,Nasinu,Sugar 2kg,2,Card,Occasional,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+431,2025-05-27,Lami,Dishwashing Liquid,3,Cash,Regular,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+273,2025-05-27,Nausori,Bread,2,Cash,Regular,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+1122,2025-05-28,Nabua,Laundry Powder,1,Card,Regular,Household,12.0,9.0,12.0,9.0,3.0,25.0
+245,2025-05-28,Nabua,Laundry Powder,5,Card,Regular,Household,12.0,9.0,60.0,45.0,15.0,25.0
+646,2025-05-28,Nasinu,Cooking Oil 1L,2,Mobile Payment,Occasional,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+241,2025-05-28,Nausori,Bread,1,Card,Occasional,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+663,2025-05-29,Nasinu,Bread,9,Card,Regular,Bakery,2.5,1.6,22.5,14.4,8.1,36.0
+1168,2025-05-29,Lami,Laundry Powder,9,Card,Regular,Household,12.0,9.0,108.0,81.0,27.0,25.0
+17,2025-05-30,Nasinu,Rice 5kg,2,Card,Regular,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+944,2025-05-30,Lami,Bread,7,Cash,Occasional,Bakery,2.5,1.6,17.5,11.200000000000001,6.299999999999999,36.0
+1199,2025-05-30,Nausori,Biscuits,1,Mobile Payment,Occasional,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+401,2025-05-30,Nasinu,Biscuits,4,Card,Regular,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+365,2025-05-31,Lami,Laundry Powder,2,Mobile Payment,Regular,Household,12.0,9.0,24.0,18.0,6.0,25.0
+825,2025-05-31,Nabua,Laundry Powder,4,Cash,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+255,2025-05-31,Nausori,Cooking Oil 1L,10,Cash,Occasional,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+583,2025-05-31,Nabua,Cheese 500g,10,Cash,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+549,2025-05-31,Nasinu,Sugar 2kg,4,Card,Occasional,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+277,2025-06-01,Nabua,Rice 5kg,9,Cash,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+15,2025-06-01,Nasinu,Sugar 2kg,8,Cash,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+505,2025-06-01,Nasinu,Dishwashing Liquid,1,Cash,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+190,2025-06-01,Nabua,Cooking Oil 1L,7,Cash,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+1190,2025-06-01,Nausori,Biscuits,4,Cash,Occasional,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+955,2025-06-01,Nabua,Bread,2,Mobile Payment,Regular,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+548,2025-06-01,Nasinu,Bread,10,Card,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+1066,2025-06-02,Nabua,Bread,5,Mobile Payment,Regular,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+396,2025-06-02,Nausori,Cheese 500g,1,Card,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+290,2025-06-02,Nasinu,Dishwashing Liquid,8,Mobile Payment,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+891,2025-06-03,Nabua,Biscuits,1,Mobile Payment,Occasional,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+1174,2025-06-03,Nabua,Cheese 500g,10,Cash,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+767,2025-06-03,Nasinu,Cheese 500g,6,Cash,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+1200,2025-06-03,Lami,Laundry Powder,3,Card,Occasional,Household,12.0,9.0,36.0,27.0,9.0,25.0
+464,2025-06-03,Nasinu,Rice 5kg,10,Card,Occasional,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+836,2025-06-04,Lami,Dishwashing Liquid,10,Card,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+367,2025-06-04,Nabua,Biscuits,6,Cash,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+687,2025-06-05,Nabua,Cooking Oil 1L,2,Card,Regular,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+1108,2025-06-06,Nasinu,Dishwashing Liquid,2,Cash,Occasional,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+1105,2025-06-06,Nabua,Cheese 500g,10,Card,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+1083,2025-06-06,Nausori,Bread,3,Card,Occasional,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+1080,2025-06-06,Nausori,Laundry Powder,1,Card,Occasional,Household,12.0,9.0,12.0,9.0,3.0,25.0
+92,2025-06-06,Nausori,Sugar 2kg,3,Card,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+333,2025-06-07,Nabua,Laundry Powder,5,Mobile Payment,Occasional,Household,12.0,9.0,60.0,45.0,15.0,25.0
+430,2025-06-07,Nabua,Cheese 500g,4,Card,Regular,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+310,2025-06-07,Nasinu,Biscuits,1,Card,Occasional,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+1098,2025-06-08,Nausori,Rice 5kg,9,Cash,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+219,2025-06-09,Lami,Cheese 500g,2,Mobile Payment,Regular,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+192,2025-06-09,Nasinu,Bread,3,Mobile Payment,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+153,2025-06-09,Lami,Cheese 500g,4,Mobile Payment,Occasional,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+659,2025-06-09,Lami,Sugar 2kg,7,Mobile Payment,Regular,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+269,2025-06-09,Lami,Potato Chips,7,Card,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+838,2025-06-09,Nabua,Cooking Oil 1L,9,Cash,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+503,2025-06-09,Nausori,Biscuits,6,Card,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+1195,2025-06-10,Lami,Bread,5,Cash,Occasional,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+280,2025-06-10,Nausori,Sugar 2kg,1,Mobile Payment,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+298,2025-06-10,Nausori,Cheese 500g,9,Card,Regular,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+1002,2025-06-10,Nausori,Milk 1L,8,Card,Regular,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+349,2025-06-10,Nabua,Cooking Oil 1L,2,Mobile Payment,Regular,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+24,2025-06-10,Nausori,Milk 1L,1,Cash,Regular,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+769,2025-06-11,Lami,Laundry Powder,1,Mobile Payment,Regular,Household,12.0,9.0,12.0,9.0,3.0,25.0
+72,2025-06-11,Lami,Cooking Oil 1L,4,Mobile Payment,Occasional,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+594,2025-06-12,Nabua,Bread,10,Card,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+295,2025-06-12,Nabua,Cooking Oil 1L,9,Cash,Regular,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+507,2025-06-12,Nasinu,Milk 1L,2,Card,Regular,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+105,2025-06-12,Nausori,Milk 1L,8,Card,Occasional,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+540,2025-06-13,Nausori,Cheese 500g,1,Card,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+669,2025-06-13,Lami,Bread,10,Cash,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+691,2025-06-13,Lami,Cheese 500g,9,Mobile Payment,Occasional,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+750,2025-06-14,Nausori,Dishwashing Liquid,3,Cash,Regular,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+616,2025-06-14,Lami,Cheese 500g,10,Card,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+185,2025-06-14,Lami,Sugar 2kg,2,Mobile Payment,Regular,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+1044,2025-06-14,Nausori,Potato Chips,10,Card,Occasional,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+800,2025-06-15,Nasinu,Sugar 2kg,2,Card,Occasional,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+47,2025-06-16,Lami,Cooking Oil 1L,3,Cash,Regular,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+633,2025-06-16,Nausori,Potato Chips,9,Card,Occasional,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+609,2025-06-17,Nasinu,Milk 1L,9,Mobile Payment,Regular,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+1009,2025-06-17,Nasinu,Laundry Powder,9,Mobile Payment,Occasional,Household,12.0,9.0,108.0,81.0,27.0,25.0
+514,2025-06-17,Nasinu,Rice 5kg,9,Mobile Payment,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+297,2025-06-18,Nausori,Bread,3,Mobile Payment,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+32,2025-06-19,Nasinu,Sugar 2kg,1,Card,Regular,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+845,2025-06-19,Nausori,Cooking Oil 1L,10,Mobile Payment,Occasional,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+374,2025-06-19,Lami,Cheese 500g,5,Card,Regular,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+610,2025-06-19,Nasinu,Milk 1L,4,Mobile Payment,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+407,2025-06-19,Nabua,Cheese 500g,7,Cash,Occasional,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+160,2025-06-19,Nasinu,Dishwashing Liquid,1,Cash,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+1142,2025-06-20,Nausori,Sugar 2kg,9,Card,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+149,2025-06-20,Nabua,Potato Chips,3,Mobile Payment,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+1007,2025-06-21,Nausori,Potato Chips,6,Card,Occasional,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+121,2025-06-21,Nausori,Biscuits,6,Cash,Regular,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+217,2025-06-21,Nabua,Rice 5kg,3,Mobile Payment,Occasional,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+189,2025-06-21,Nasinu,Sugar 2kg,8,Mobile Payment,Regular,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+331,2025-06-21,Nausori,Cooking Oil 1L,3,Mobile Payment,Regular,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+979,2025-06-22,Nausori,Cooking Oil 1L,6,Cash,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+383,2025-06-22,Nausori,Milk 1L,10,Cash,Regular,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+758,2025-06-22,Nausori,Cooking Oil 1L,3,Card,Occasional,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+1112,2025-06-22,Nasinu,Potato Chips,2,Mobile Payment,Regular,Snacks,3.5,2.2,7.0,4.4,2.5999999999999996,37.14
+640,2025-06-22,Nausori,Potato Chips,5,Cash,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+658,2025-06-22,Nabua,Rice 5kg,4,Cash,Occasional,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+660,2025-06-22,Nasinu,Milk 1L,5,Mobile Payment,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+360,2025-06-23,Nausori,Biscuits,9,Card,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+607,2025-06-23,Nausori,Dishwashing Liquid,2,Mobile Payment,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+36,2025-06-24,Lami,Rice 5kg,2,Mobile Payment,Regular,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+307,2025-06-25,Nabua,Dishwashing Liquid,8,Card,Regular,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+372,2025-06-25,Nausori,Potato Chips,1,Mobile Payment,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+728,2025-06-26,Nausori,Laundry Powder,7,Cash,Occasional,Household,12.0,9.0,84.0,63.0,21.0,25.0
+737,2025-06-26,Nabua,Cheese 500g,9,Mobile Payment,Occasional,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+568,2025-06-26,Nausori,Potato Chips,7,Card,Occasional,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+1196,2025-06-26,Nabua,Sugar 2kg,7,Cash,Regular,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+544,2025-06-26,Nasinu,Biscuits,6,Mobile Payment,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+696,2025-06-27,Lami,Cheese 500g,6,Card,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+506,2025-06-27,Nausori,Cheese 500g,1,Mobile Payment,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+1003,2025-06-27,Lami,Potato Chips,4,Card,Regular,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+1076,2025-06-28,Nausori,Biscuits,6,Mobile Payment,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+138,2025-06-28,Nausori,Bread,7,Cash,Occasional,Bakery,2.5,1.6,17.5,11.200000000000001,6.299999999999999,36.0
+1060,2025-06-28,Nabua,Laundry Powder,1,Card,Regular,Household,12.0,9.0,12.0,9.0,3.0,25.0
+1188,2025-06-28,Nabua,Rice 5kg,8,Card,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+509,2025-06-28,Nabua,Sugar 2kg,9,Mobile Payment,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+1192,2025-06-29,Nabua,Laundry Powder,9,Card,Occasional,Household,12.0,9.0,108.0,81.0,27.0,25.0
+936,2025-06-29,Lami,Rice 5kg,9,Mobile Payment,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+490,2025-06-29,Lami,Potato Chips,1,Cash,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+880,2025-06-29,Nabua,Cooking Oil 1L,6,Cash,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+195,2025-06-29,Nabua,Rice 5kg,9,Mobile Payment,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+406,2025-06-29,Nasinu,Sugar 2kg,4,Card,Regular,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+588,2025-06-30,Lami,Milk 1L,5,Card,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+342,2025-06-30,Nausori,Laundry Powder,3,Cash,Occasional,Household,12.0,9.0,36.0,27.0,9.0,25.0
+1189,2025-07-01,Lami,Laundry Powder,9,Mobile Payment,Occasional,Household,12.0,9.0,108.0,81.0,27.0,25.0
+1163,2025-07-01,Nasinu,Cooking Oil 1L,6,Cash,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+632,2025-07-01,Lami,Cooking Oil 1L,8,Mobile Payment,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+826,2025-07-02,Nausori,Potato Chips,6,Cash,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+554,2025-07-02,Nausori,Cooking Oil 1L,10,Card,Regular,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+224,2025-07-03,Nasinu,Sugar 2kg,10,Mobile Payment,Regular,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+810,2025-07-03,Nausori,Cooking Oil 1L,5,Mobile Payment,Regular,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+1103,2025-07-03,Nausori,Dishwashing Liquid,10,Cash,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+831,2025-07-03,Lami,Laundry Powder,6,Card,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+467,2025-07-04,Nasinu,Cooking Oil 1L,3,Card,Regular,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+397,2025-07-05,Lami,Dishwashing Liquid,6,Mobile Payment,Occasional,Household,5.8,4.1,34.8,24.599999999999998,10.2,29.31
+590,2025-07-05,Lami,Bread,4,Card,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+694,2025-07-05,Lami,Cheese 500g,7,Cash,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+237,2025-07-06,Lami,Sugar 2kg,6,Mobile Payment,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+205,2025-07-06,Nasinu,Potato Chips,3,Mobile Payment,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+893,2025-07-06,Nasinu,Laundry Powder,10,Cash,Occasional,Household,12.0,9.0,120.0,90.0,30.0,25.0
+155,2025-07-06,Lami,Sugar 2kg,3,Mobile Payment,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+566,2025-07-06,Nabua,Laundry Powder,6,Card,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+345,2025-07-07,Nasinu,Sugar 2kg,9,Mobile Payment,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+33,2025-07-07,Nasinu,Sugar 2kg,6,Card,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+90,2025-07-07,Nasinu,Biscuits,7,Card,Regular,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+457,2025-07-08,Nabua,Rice 5kg,6,Cash,Occasional,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+6,2025-07-08,Nasinu,Bread,3,Cash,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+399,2025-07-09,Nausori,Dishwashing Liquid,8,Cash,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+80,2025-07-09,Nausori,Potato Chips,7,Mobile Payment,Occasional,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+651,2025-07-09,Lami,Cheese 500g,3,Mobile Payment,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+174,2025-07-09,Nasinu,Biscuits,10,Card,Regular,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+35,2025-07-09,Nabua,Laundry Powder,8,Card,Regular,Household,12.0,9.0,96.0,72.0,24.0,25.0
+550,2025-07-09,Lami,Sugar 2kg,5,Card,Regular,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+652,2025-07-10,Nabua,Milk 1L,2,Card,Regular,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+347,2025-07-10,Nausori,Sugar 2kg,5,Mobile Payment,Regular,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+69,2025-07-10,Nausori,Cooking Oil 1L,4,Cash,Regular,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+702,2025-07-11,Nasinu,Biscuits,7,Card,Occasional,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+788,2025-07-11,Nasinu,Rice 5kg,3,Mobile Payment,Occasional,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+905,2025-07-11,Nausori,Bread,1,Mobile Payment,Occasional,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+458,2025-07-11,Lami,Biscuits,9,Cash,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+22,2025-07-11,Nabua,Potato Chips,5,Card,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+328,2025-07-11,Nausori,Rice 5kg,9,Mobile Payment,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+542,2025-07-11,Nausori,Potato Chips,8,Mobile Payment,Occasional,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+613,2025-07-13,Nausori,Bread,3,Mobile Payment,Occasional,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+293,2025-07-13,Nausori,Biscuits,5,Cash,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+975,2025-07-13,Nausori,Milk 1L,9,Mobile Payment,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+304,2025-07-14,Nausori,Sugar 2kg,3,Cash,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+835,2025-07-14,Nasinu,Rice 5kg,2,Card,Regular,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+833,2025-07-14,Nabua,Cooking Oil 1L,4,Mobile Payment,Regular,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+533,2025-07-15,Nabua,Dishwashing Liquid,7,Cash,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+1088,2025-07-15,Nausori,Rice 5kg,2,Mobile Payment,Occasional,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+418,2025-07-15,Nabua,Cheese 500g,7,Mobile Payment,Occasional,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+713,2025-07-16,Lami,Milk 1L,4,Mobile Payment,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+743,2025-07-16,Nasinu,Sugar 2kg,5,Mobile Payment,Regular,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+946,2025-07-17,Nabua,Milk 1L,1,Card,Occasional,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+231,2025-07-17,Lami,Sugar 2kg,7,Cash,Occasional,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+182,2025-07-17,Nabua,Laundry Powder,9,Cash,Occasional,Household,12.0,9.0,108.0,81.0,27.0,25.0
+1193,2025-07-17,Nasinu,Bread,10,Mobile Payment,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+1073,2025-07-17,Nausori,Laundry Powder,5,Mobile Payment,Occasional,Household,12.0,9.0,60.0,45.0,15.0,25.0
+220,2025-07-17,Nabua,Cheese 500g,8,Mobile Payment,Regular,Dairy,9.5,7.2,76.0,57.6,18.4,24.21
+247,2025-07-18,Nasinu,Dishwashing Liquid,5,Mobile Payment,Occasional,Household,5.8,4.1,29.0,20.5,8.5,29.31
+1129,2025-07-19,Nasinu,Potato Chips,1,Card,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+235,2025-07-20,Lami,Rice 5kg,8,Card,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+704,2025-07-20,Nabua,Cooking Oil 1L,10,Mobile Payment,Occasional,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+112,2025-07-20,Nabua,Sugar 2kg,5,Card,Regular,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+1171,2025-07-21,Lami,Cooking Oil 1L,2,Cash,Occasional,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+908,2025-07-21,Nabua,Cooking Oil 1L,7,Cash,Regular,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+73,2025-07-21,Nabua,Potato Chips,5,Mobile Payment,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+635,2025-07-21,Nausori,Dishwashing Liquid,7,Card,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+751,2025-07-21,Lami,Potato Chips,10,Mobile Payment,Regular,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+666,2025-07-22,Lami,Bread,6,Mobile Payment,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+223,2025-07-22,Nasinu,Potato Chips,2,Card,Occasional,Snacks,3.5,2.2,7.0,4.4,2.5999999999999996,37.14
+977,2025-07-22,Nausori,Potato Chips,1,Card,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+474,2025-07-23,Nasinu,Dishwashing Liquid,4,Card,Regular,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+759,2025-07-24,Nausori,Biscuits,8,Card,Regular,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+818,2025-07-24,Nabua,Milk 1L,3,Cash,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+574,2025-07-25,Nabua,Cooking Oil 1L,1,Mobile Payment,Regular,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+60,2025-07-25,Nausori,Rice 5kg,10,Cash,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+881,2025-07-26,Nabua,Laundry Powder,3,Mobile Payment,Regular,Household,12.0,9.0,36.0,27.0,9.0,25.0
+782,2025-07-26,Nabua,Sugar 2kg,4,Cash,Occasional,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+134,2025-07-26,Nasinu,Potato Chips,3,Card,Occasional,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+296,2025-07-27,Nasinu,Bread,1,Mobile Payment,Regular,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+83,2025-07-27,Nausori,Cheese 500g,10,Cash,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+275,2025-07-27,Nausori,Sugar 2kg,8,Card,Regular,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+1138,2025-07-29,Nausori,Biscuits,9,Card,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+1182,2025-07-29,Lami,Cooking Oil 1L,4,Cash,Occasional,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+986,2025-07-31,Nasinu,Bread,10,Card,Regular,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+918,2025-07-31,Nasinu,Cheese 500g,6,Card,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+705,2025-07-31,Nasinu,Rice 5kg,2,Cash,Regular,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+82,2025-08-01,Nausori,Bread,3,Card,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+1043,2025-08-01,Lami,Sugar 2kg,10,Card,Regular,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+665,2025-08-01,Nasinu,Rice 5kg,6,Cash,Regular,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+885,2025-08-02,Nabua,Cheese 500g,1,Card,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+123,2025-08-02,Nausori,Rice 5kg,6,Mobile Payment,Occasional,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+864,2025-08-02,Lami,Sugar 2kg,6,Card,Occasional,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+1156,2025-08-02,Nausori,Cooking Oil 1L,9,Card,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+393,2025-08-03,Lami,Cheese 500g,9,Mobile Payment,Regular,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+78,2025-08-03,Nasinu,Cheese 500g,6,Cash,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+595,2025-08-03,Lami,Rice 5kg,10,Mobile Payment,Occasional,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+10,2025-08-03,Lami,Rice 5kg,10,Card,Occasional,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+525,2025-08-03,Nasinu,Milk 1L,6,Card,Regular,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+889,2025-08-04,Lami,Bread,2,Cash,Occasional,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+1102,2025-08-04,Nabua,Rice 5kg,3,Card,Occasional,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+118,2025-08-04,Nabua,Biscuits,5,Mobile Payment,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+88,2025-08-05,Nasinu,Cheese 500g,5,Card,Regular,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+733,2025-08-05,Nabua,Milk 1L,7,Card,Regular,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+564,2025-08-05,Nabua,Biscuits,4,Card,Regular,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+624,2025-08-05,Nasinu,Bread,5,Cash,Occasional,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+557,2025-08-05,Nausori,Bread,7,Mobile Payment,Occasional,Bakery,2.5,1.6,17.5,11.200000000000001,6.299999999999999,36.0
+537,2025-08-05,Nabua,Laundry Powder,4,Cash,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+475,2025-08-06,Lami,Milk 1L,6,Cash,Regular,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+857,2025-08-06,Nausori,Biscuits,10,Cash,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+1135,2025-08-06,Lami,Cheese 500g,10,Mobile Payment,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+130,2025-08-06,Nabua,Bread,10,Mobile Payment,Occasional,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+218,2025-08-06,Nausori,Sugar 2kg,6,Mobile Payment,Occasional,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+70,2025-08-06,Nausori,Bread,1,Mobile Payment,Regular,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+332,2025-08-08,Nasinu,Cooking Oil 1L,3,Mobile Payment,Occasional,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+469,2025-08-08,Nabua,Rice 5kg,8,Cash,Occasional,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+967,2025-08-08,Nabua,Sugar 2kg,7,Cash,Occasional,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+643,2025-08-08,Nabua,Cooking Oil 1L,8,Card,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+698,2025-08-08,Lami,Bread,6,Mobile Payment,Occasional,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+209,2025-08-08,Nausori,Cooking Oil 1L,9,Mobile Payment,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+706,2025-08-08,Nabua,Potato Chips,9,Cash,Occasional,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+596,2025-08-09,Nasinu,Laundry Powder,4,Mobile Payment,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+776,2025-08-10,Nasinu,Biscuits,6,Cash,Regular,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+481,2025-08-10,Nasinu,Dishwashing Liquid,10,Cash,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+145,2025-08-10,Nasinu,Potato Chips,9,Cash,Regular,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+575,2025-08-11,Lami,Rice 5kg,3,Card,Regular,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+491,2025-08-11,Nausori,Laundry Powder,2,Cash,Occasional,Household,12.0,9.0,24.0,18.0,6.0,25.0
+591,2025-08-11,Nasinu,Dishwashing Liquid,1,Card,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+964,2025-08-11,Nasinu,Biscuits,10,Mobile Payment,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+355,2025-08-11,Nasinu,Laundry Powder,6,Cash,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+212,2025-08-12,Nabua,Rice 5kg,6,Card,Occasional,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+684,2025-08-12,Lami,Cheese 500g,5,Mobile Payment,Regular,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+726,2025-08-12,Nasinu,Bread,2,Cash,Regular,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+551,2025-08-12,Nabua,Cheese 500g,10,Mobile Payment,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+186,2025-08-13,Nabua,Cooking Oil 1L,8,Card,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+987,2025-08-13,Lami,Biscuits,6,Mobile Payment,Regular,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+175,2025-08-13,Lami,Cheese 500g,10,Cash,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+1068,2025-08-13,Nasinu,Bread,4,Cash,Occasional,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+213,2025-08-13,Nasinu,Bread,3,Card,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+790,2025-08-14,Lami,Bread,5,Card,Regular,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+318,2025-08-14,Nasinu,Sugar 2kg,10,Mobile Payment,Occasional,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+939,2025-08-14,Nausori,Sugar 2kg,4,Cash,Regular,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+125,2025-08-15,Nasinu,Dishwashing Liquid,5,Cash,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+287,2025-08-15,Nasinu,Cooking Oil 1L,7,Card,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+903,2025-08-15,Nabua,Laundry Powder,2,Card,Occasional,Household,12.0,9.0,24.0,18.0,6.0,25.0
+670,2025-08-15,Lami,Biscuits,8,Card,Occasional,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+543,2025-08-15,Nabua,Biscuits,2,Mobile Payment,Regular,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+701,2025-08-16,Nabua,Biscuits,1,Mobile Payment,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+1100,2025-08-16,Nausori,Potato Chips,1,Card,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+926,2025-08-16,Nausori,Laundry Powder,4,Card,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+783,2025-08-17,Nausori,Dishwashing Liquid,4,Cash,Occasional,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+439,2025-08-17,Nasinu,Sugar 2kg,6,Card,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+1038,2025-08-17,Nausori,Laundry Powder,7,Cash,Occasional,Household,12.0,9.0,84.0,63.0,21.0,25.0
+668,2025-08-17,Nabua,Milk 1L,9,Mobile Payment,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+942,2025-08-17,Nausori,Potato Chips,1,Mobile Payment,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+962,2025-08-17,Lami,Milk 1L,8,Mobile Payment,Occasional,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+605,2025-08-18,Nabua,Cooking Oil 1L,1,Cash,Regular,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+312,2025-08-18,Nausori,Laundry Powder,7,Mobile Payment,Occasional,Household,12.0,9.0,84.0,63.0,21.0,25.0
+1082,2025-08-19,Nasinu,Rice 5kg,10,Card,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+141,2025-08-19,Nausori,Laundry Powder,6,Mobile Payment,Occasional,Household,12.0,9.0,72.0,54.0,18.0,25.0
+911,2025-08-19,Nabua,Laundry Powder,4,Card,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+108,2025-08-19,Lami,Cooking Oil 1L,5,Cash,Occasional,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+146,2025-08-19,Nasinu,Dishwashing Liquid,3,Cash,Regular,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+173,2025-08-19,Nabua,Rice 5kg,6,Card,Regular,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+922,2025-08-21,Nasinu,Cheese 500g,2,Cash,Regular,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+674,2025-08-21,Lami,Laundry Powder,5,Mobile Payment,Regular,Household,12.0,9.0,60.0,45.0,15.0,25.0
+570,2025-08-21,Nasinu,Dishwashing Liquid,3,Cash,Regular,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+179,2025-08-21,Nausori,Cooking Oil 1L,8,Card,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+337,2025-08-21,Nasinu,Sugar 2kg,6,Card,Occasional,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+851,2025-08-21,Nabua,Potato Chips,4,Mobile Payment,Occasional,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+194,2025-08-21,Nabua,Laundry Powder,4,Mobile Payment,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+271,2025-08-21,Lami,Rice 5kg,2,Cash,Occasional,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+188,2025-08-22,Nasinu,Cheese 500g,1,Mobile Payment,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+597,2025-08-23,Lami,Sugar 2kg,4,Cash,Occasional,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+820,2025-08-23,Lami,Potato Chips,5,Card,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+931,2025-08-24,Lami,Biscuits,10,Cash,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+1024,2025-08-24,Nasinu,Laundry Powder,4,Cash,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+28,2025-08-24,Nabua,Cheese 500g,10,Mobile Payment,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+775,2025-08-24,Nasinu,Laundry Powder,5,Mobile Payment,Occasional,Household,12.0,9.0,60.0,45.0,15.0,25.0
+1051,2025-08-25,Nausori,Cooking Oil 1L,3,Mobile Payment,Occasional,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+147,2025-08-25,Nabua,Laundry Powder,2,Cash,Occasional,Household,12.0,9.0,24.0,18.0,6.0,25.0
+455,2025-08-25,Nausori,Cooking Oil 1L,4,Cash,Regular,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+84,2025-08-25,Nausori,Dishwashing Liquid,2,Cash,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+309,2025-08-26,Nausori,Cooking Oil 1L,5,Mobile Payment,Occasional,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+898,2025-08-26,Nasinu,Milk 1L,3,Card,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+473,2025-08-26,Nasinu,Potato Chips,1,Card,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+865,2025-08-27,Nabua,Biscuits,6,Mobile Payment,Regular,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+900,2025-08-27,Nabua,Dishwashing Liquid,8,Card,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+600,2025-08-27,Nausori,Milk 1L,9,Mobile Payment,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+727,2025-08-27,Nabua,Dishwashing Liquid,8,Card,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+448,2025-08-27,Nausori,Potato Chips,4,Cash,Occasional,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+822,2025-08-28,Nausori,Cheese 500g,7,Card,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+232,2025-08-28,Nabua,Biscuits,3,Card,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+707,2025-08-28,Nabua,Laundry Powder,1,Cash,Occasional,Household,12.0,9.0,12.0,9.0,3.0,25.0
+142,2025-08-29,Nausori,Dishwashing Liquid,1,Card,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+52,2025-08-30,Nausori,Biscuits,3,Mobile Payment,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+523,2025-08-30,Nausori,Sugar 2kg,2,Mobile Payment,Occasional,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+718,2025-08-30,Nausori,Potato Chips,1,Cash,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+642,2025-08-30,Nabua,Sugar 2kg,3,Cash,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+1116,2025-08-31,Lami,Rice 5kg,8,Card,Regular,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+959,2025-08-31,Nabua,Cheese 500g,6,Mobile Payment,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+156,2025-08-31,Nabua,Potato Chips,9,Card,Regular,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+40,2025-09-01,Nasinu,Cheese 500g,1,Card,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+1177,2025-09-01,Nabua,Cooking Oil 1L,3,Card,Regular,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+371,2025-09-03,Nabua,Biscuits,6,Mobile Payment,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+486,2025-09-03,Nausori,Dishwashing Liquid,4,Mobile Payment,Occasional,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+462,2025-09-04,Nabua,Laundry Powder,10,Card,Regular,Household,12.0,9.0,120.0,90.0,30.0,25.0
+221,2025-09-04,Lami,Potato Chips,1,Card,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+803,2025-09-04,Nasinu,Cooking Oil 1L,1,Mobile Payment,Occasional,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+501,2025-09-04,Lami,Laundry Powder,10,Cash,Occasional,Household,12.0,9.0,120.0,90.0,30.0,25.0
+958,2025-09-04,Nabua,Laundry Powder,2,Card,Regular,Household,12.0,9.0,24.0,18.0,6.0,25.0
+375,2025-09-04,Nausori,Biscuits,3,Cash,Regular,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+539,2025-09-06,Lami,Cheese 500g,7,Mobile Payment,Occasional,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+861,2025-09-06,Nasinu,Dishwashing Liquid,2,Mobile Payment,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+799,2025-09-06,Nabua,Laundry Powder,3,Cash,Regular,Household,12.0,9.0,36.0,27.0,9.0,25.0
+824,2025-09-06,Nabua,Milk 1L,1,Card,Regular,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+492,2025-09-07,Nabua,Laundry Powder,6,Cash,Occasional,Household,12.0,9.0,72.0,54.0,18.0,25.0
+768,2025-09-07,Nausori,Laundry Powder,9,Mobile Payment,Regular,Household,12.0,9.0,108.0,81.0,27.0,25.0
+484,2025-09-07,Lami,Bread,5,Cash,Regular,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+1187,2025-09-08,Lami,Cheese 500g,2,Mobile Payment,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+777,2025-09-08,Nausori,Bread,8,Mobile Payment,Occasional,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+719,2025-09-08,Nausori,Dishwashing Liquid,1,Card,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+667,2025-09-09,Nausori,Milk 1L,5,Cash,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+79,2025-09-09,Nausori,Dishwashing Liquid,5,Cash,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+789,2025-09-09,Nasinu,Sugar 2kg,9,Cash,Occasional,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+89,2025-09-09,Nausori,Milk 1L,5,Card,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+629,2025-09-09,Nausori,Biscuits,4,Cash,Occasional,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+242,2025-09-09,Nasinu,Dishwashing Liquid,1,Cash,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+259,2025-09-09,Nabua,Milk 1L,6,Card,Regular,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+879,2025-09-10,Lami,Bread,2,Card,Regular,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+710,2025-09-10,Nabua,Laundry Powder,9,Card,Regular,Household,12.0,9.0,108.0,81.0,27.0,25.0
+27,2025-09-10,Nausori,Cooking Oil 1L,3,Card,Occasional,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+348,2025-09-10,Lami,Biscuits,4,Card,Occasional,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+522,2025-09-10,Nabua,Laundry Powder,6,Cash,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+604,2025-09-10,Lami,Potato Chips,1,Cash,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+480,2025-09-11,Nasinu,Cooking Oil 1L,2,Mobile Payment,Occasional,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+1124,2025-09-11,Lami,Cooking Oil 1L,7,Cash,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+266,2025-09-11,Lami,Bread,8,Mobile Payment,Occasional,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+1087,2025-09-11,Nabua,Dishwashing Liquid,4,Card,Occasional,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+286,2025-09-11,Nasinu,Rice 5kg,1,Mobile Payment,Occasional,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+131,2025-09-12,Nabua,Biscuits,6,Cash,Regular,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+780,2025-09-12,Nabua,Rice 5kg,10,Card,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+226,2025-09-12,Nabua,Bread,2,Card,Occasional,Bakery,2.5,1.6,5.0,3.2,1.7999999999999998,36.0
+350,2025-09-13,Lami,Cooking Oil 1L,9,Mobile Payment,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+712,2025-09-13,Nabua,Laundry Powder,4,Cash,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+875,2025-09-14,Nasinu,Cheese 500g,4,Cash,Regular,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+495,2025-09-14,Nasinu,Cooking Oil 1L,5,Cash,Regular,Groceries,7.8,5.9,39.0,29.5,9.5,24.36
+128,2025-09-14,Nasinu,Milk 1L,4,Mobile Payment,Regular,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+1158,2025-09-14,Nasinu,Biscuits,2,Card,Occasional,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+502,2025-09-15,Nasinu,Dishwashing Liquid,3,Cash,Occasional,Household,5.8,4.1,17.4,12.299999999999999,5.1,29.31
+19,2025-09-15,Nasinu,Potato Chips,5,Cash,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+240,2025-09-16,Nasinu,Potato Chips,7,Card,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+771,2025-09-16,Nausori,Sugar 2kg,8,Mobile Payment,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+747,2025-09-16,Nausori,Biscuits,7,Cash,Occasional,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+1001,2025-09-16,Nasinu,Cooking Oil 1L,6,Cash,Occasional,Groceries,7.8,5.9,46.8,35.400000000000006,11.399999999999991,24.36
+180,2025-09-16,Nasinu,Biscuits,3,Mobile Payment,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+680,2025-09-16,Nasinu,Bread,6,Mobile Payment,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+67,2025-09-17,Lami,Rice 5kg,9,Card,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+760,2025-09-17,Nausori,Dishwashing Liquid,10,Mobile Payment,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+1107,2025-09-18,Nabua,Rice 5kg,2,Cash,Occasional,Groceries,18.5,14.0,37.0,28.0,9.0,24.32
+1005,2025-09-18,Nabua,Cheese 500g,7,Mobile Payment,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+107,2025-09-18,Lami,Milk 1L,3,Mobile Payment,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+419,2025-09-19,Nabua,Dishwashing Liquid,5,Cash,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+816,2025-09-19,Lami,Dishwashing Liquid,2,Card,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+258,2025-09-20,Nabua,Cheese 500g,8,Cash,Occasional,Dairy,9.5,7.2,76.0,57.6,18.4,24.21
+315,2025-09-21,Nasinu,Sugar 2kg,9,Card,Occasional,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+412,2025-09-21,Lami,Rice 5kg,5,Mobile Payment,Occasional,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+386,2025-09-21,Lami,Bread,8,Mobile Payment,Regular,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+528,2025-09-21,Lami,Cooking Oil 1L,2,Cash,Occasional,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+930,2025-09-21,Lami,Laundry Powder,9,Mobile Payment,Occasional,Household,12.0,9.0,108.0,81.0,27.0,25.0
+58,2025-09-21,Nausori,Laundry Powder,10,Card,Regular,Household,12.0,9.0,120.0,90.0,30.0,25.0
+53,2025-09-22,Nausori,Cooking Oil 1L,2,Card,Occasional,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+572,2025-09-22,Nausori,Rice 5kg,9,Card,Regular,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+1017,2025-09-22,Lami,Laundry Powder,5,Mobile Payment,Occasional,Household,12.0,9.0,60.0,45.0,15.0,25.0
+1036,2025-09-24,Nausori,Rice 5kg,9,Cash,Occasional,Groceries,18.5,14.0,166.5,126.0,40.5,24.32
+1157,2025-09-24,Nabua,Laundry Powder,8,Card,Occasional,Household,12.0,9.0,96.0,72.0,24.0,25.0
+254,2025-09-24,Nausori,Biscuits,7,Mobile Payment,Regular,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+729,2025-09-24,Nausori,Bread,6,Card,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+511,2025-09-25,Nabua,Cheese 500g,3,Card,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+553,2025-09-25,Nabua,Sugar 2kg,8,Mobile Payment,Regular,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+773,2025-09-25,Nabua,Milk 1L,5,Mobile Payment,Occasional,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+114,2025-09-25,Nausori,Rice 5kg,5,Cash,Regular,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+199,2025-09-25,Lami,Milk 1L,8,Card,Regular,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+427,2025-09-26,Nausori,Milk 1L,5,Card,Occasional,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+74,2025-09-27,Nausori,Dishwashing Liquid,5,Card,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+1039,2025-09-27,Nausori,Laundry Powder,5,Card,Regular,Household,12.0,9.0,60.0,45.0,15.0,25.0
+34,2025-09-28,Nasinu,Bread,5,Card,Occasional,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+409,2025-09-28,Lami,Sugar 2kg,8,Card,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+77,2025-09-28,Nasinu,Cooking Oil 1L,2,Cash,Occasional,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+3,2025-09-28,Nasinu,Rice 5kg,10,Cash,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+685,2025-09-29,Lami,Cooking Oil 1L,7,Cash,Regular,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+456,2025-09-29,Nasinu,Cheese 500g,2,Mobile Payment,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+812,2025-09-30,Nasinu,Rice 5kg,5,Card,Regular,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+1016,2025-09-30,Nabua,Laundry Powder,10,Mobile Payment,Regular,Household,12.0,9.0,120.0,90.0,30.0,25.0
+910,2025-09-30,Nausori,Sugar 2kg,9,Mobile Payment,Occasional,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+561,2025-09-30,Nasinu,Cooking Oil 1L,9,Cash,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+368,2025-09-30,Nausori,Rice 5kg,5,Mobile Payment,Regular,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+901,2025-10-01,Nabua,Cheese 500g,6,Cash,Regular,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+48,2025-10-01,Nasinu,Bread,4,Card,Occasional,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+985,2025-10-02,Nabua,Dishwashing Liquid,2,Mobile Payment,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+630,2025-10-02,Nausori,Biscuits,2,Card,Regular,Snacks,4.2,2.8,8.4,5.6,2.8000000000000007,33.33
+435,2025-10-02,Nasinu,Potato Chips,7,Card,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+319,2025-10-04,Nausori,Milk 1L,7,Mobile Payment,Occasional,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+301,2025-10-04,Nasinu,Rice 5kg,4,Card,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+23,2025-10-04,Nausori,Laundry Powder,8,Card,Occasional,Household,12.0,9.0,96.0,72.0,24.0,25.0
+842,2025-10-04,Nabua,Biscuits,1,Card,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+945,2025-10-04,Lami,Laundry Powder,4,Mobile Payment,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+538,2025-10-04,Nasinu,Sugar 2kg,1,Cash,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+460,2025-10-05,Nabua,Potato Chips,10,Cash,Regular,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+556,2025-10-06,Lami,Potato Chips,2,Cash,Occasional,Snacks,3.5,2.2,7.0,4.4,2.5999999999999996,37.14
+442,2025-10-06,Lami,Sugar 2kg,3,Mobile Payment,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+499,2025-10-07,Nausori,Laundry Powder,6,Cash,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+228,2025-10-07,Nasinu,Cooking Oil 1L,10,Cash,Regular,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+87,2025-10-07,Nabua,Sugar 2kg,1,Cash,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+361,2025-10-07,Nasinu,Cooking Oil 1L,8,Cash,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+339,2025-10-07,Nasinu,Cheese 500g,9,Card,Regular,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+354,2025-10-08,Nabua,Dishwashing Liquid,8,Cash,Regular,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+832,2025-10-08,Nasinu,Potato Chips,8,Cash,Occasional,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+937,2025-10-09,Nabua,Milk 1L,10,Card,Regular,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+731,2025-10-09,Nausori,Milk 1L,7,Card,Regular,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+1118,2025-10-09,Lami,Cheese 500g,1,Card,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+860,2025-10-09,Nausori,Sugar 2kg,3,Cash,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+1120,2025-10-10,Nasinu,Biscuits,5,Mobile Payment,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+736,2025-10-10,Nabua,Laundry Powder,2,Cash,Regular,Household,12.0,9.0,24.0,18.0,6.0,25.0
+611,2025-10-10,Nabua,Dishwashing Liquid,5,Card,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+133,2025-10-10,Nausori,Rice 5kg,3,Card,Occasional,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+176,2025-10-10,Nabua,Rice 5kg,5,Card,Regular,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+316,2025-10-10,Nasinu,Sugar 2kg,8,Card,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+164,2025-10-11,Nausori,Milk 1L,3,Card,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+573,2025-10-11,Nausori,Cheese 500g,7,Cash,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+322,2025-10-11,Lami,Laundry Powder,5,Cash,Regular,Household,12.0,9.0,60.0,45.0,15.0,25.0
+158,2025-10-11,Lami,Milk 1L,4,Cash,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+808,2025-10-12,Nabua,Bread,6,Mobile Payment,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+518,2025-10-12,Lami,Laundry Powder,3,Cash,Regular,Household,12.0,9.0,36.0,27.0,9.0,25.0
+468,2025-10-12,Nasinu,Potato Chips,5,Mobile Payment,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+1197,2025-10-12,Nabua,Milk 1L,10,Mobile Payment,Regular,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+717,2025-10-13,Lami,Cheese 500g,6,Mobile Payment,Occasional,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+795,2025-10-13,Lami,Cheese 500g,3,Mobile Payment,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+1041,2025-10-13,Nabua,Cooking Oil 1L,10,Mobile Payment,Regular,Groceries,7.8,5.9,78.0,59.0,19.0,24.36
+320,2025-10-13,Nasinu,Sugar 2kg,5,Card,Occasional,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+169,2025-10-13,Nasinu,Cheese 500g,2,Mobile Payment,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+560,2025-10-13,Nasinu,Potato Chips,5,Card,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+1151,2025-10-14,Lami,Potato Chips,3,Card,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+363,2025-10-15,Nasinu,Cooking Oil 1L,7,Mobile Payment,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+761,2025-10-15,Nasinu,Cheese 500g,1,Card,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+392,2025-10-15,Nausori,Sugar 2kg,3,Card,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+1059,2025-10-15,Lami,Milk 1L,7,Cash,Occasional,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+300,2025-10-16,Nabua,Dishwashing Liquid,4,Card,Regular,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+1086,2025-10-16,Lami,Cooking Oil 1L,3,Mobile Payment,Regular,Groceries,7.8,5.9,23.4,17.700000000000003,5.699999999999996,24.36
+1081,2025-10-16,Nabua,Sugar 2kg,1,Mobile Payment,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+106,2025-10-16,Lami,Cheese 500g,10,Mobile Payment,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+943,2025-10-16,Lami,Biscuits,5,Card,Occasional,Snacks,4.2,2.8,21.0,14.0,7.0,33.33
+479,2025-10-16,Nabua,Cooking Oil 1L,9,Cash,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+723,2025-10-16,Nausori,Biscuits,1,Card,Regular,Snacks,4.2,2.8,4.2,2.8,1.4000000000000004,33.33
+449,2025-10-17,Nausori,Bread,10,Mobile Payment,Regular,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+489,2025-10-17,Nabua,Potato Chips,6,Card,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+1175,2025-10-18,Nabua,Sugar 2kg,3,Cash,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+1042,2025-10-18,Nasinu,Rice 5kg,1,Mobile Payment,Regular,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+1117,2025-10-19,Nausori,Potato Chips,10,Cash,Occasional,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+874,2025-10-19,Lami,Potato Chips,3,Mobile Payment,Regular,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+627,2025-10-19,Nabua,Milk 1L,7,Card,Occasional,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+1146,2025-10-20,Nabua,Rice 5kg,3,Cash,Regular,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+997,2025-10-20,Nasinu,Biscuits,9,Mobile Payment,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+119,2025-10-20,Nausori,Dishwashing Liquid,2,Cash,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+791,2025-10-21,Lami,Bread,8,Card,Regular,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+902,2025-10-21,Nausori,Cooking Oil 1L,4,Card,Occasional,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+21,2025-10-21,Nasinu,Rice 5kg,4,Card,Regular,Groceries,18.5,14.0,74.0,56.0,18.0,24.32
+1181,2025-10-21,Nausori,Laundry Powder,4,Card,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+227,2025-10-21,Nasinu,Dishwashing Liquid,2,Cash,Occasional,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+1097,2025-10-21,Nasinu,Bread,8,Card,Occasional,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+200,2025-10-22,Nasinu,Dishwashing Liquid,8,Card,Regular,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+1056,2025-10-22,Nabua,Cheese 500g,6,Card,Regular,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+1030,2025-10-23,Lami,Cheese 500g,7,Mobile Payment,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+1054,2025-10-23,Lami,Bread,6,Card,Regular,Bakery,2.5,1.6,15.0,9.600000000000001,5.399999999999999,36.0
+1154,2025-10-23,Nasinu,Rice 5kg,3,Card,Occasional,Groceries,18.5,14.0,55.5,42.0,13.5,24.32
+81,2025-10-23,Lami,Sugar 2kg,3,Card,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+1155,2025-10-24,Nausori,Dishwashing Liquid,5,Card,Occasional,Household,5.8,4.1,29.0,20.5,8.5,29.31
+256,2025-10-25,Lami,Potato Chips,10,Mobile Payment,Regular,Snacks,3.5,2.2,35.0,22.0,13.0,37.14
+370,2025-10-26,Nasinu,Milk 1L,6,Mobile Payment,Occasional,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+1119,2025-10-26,Nasinu,Cooking Oil 1L,7,Mobile Payment,Occasional,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+914,2025-10-27,Lami,Sugar 2kg,10,Mobile Payment,Occasional,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+980,2025-10-27,Lami,Milk 1L,5,Cash,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+858,2025-10-28,Nabua,Laundry Powder,2,Mobile Payment,Occasional,Household,12.0,9.0,24.0,18.0,6.0,25.0
+94,2025-10-28,Lami,Biscuits,8,Mobile Payment,Regular,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+625,2025-10-28,Nasinu,Milk 1L,5,Card,Occasional,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+1133,2025-10-29,Nasinu,Biscuits,3,Card,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+341,2025-10-29,Nausori,Milk 1L,2,Card,Regular,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+1159,2025-10-29,Nasinu,Sugar 2kg,3,Cash,Regular,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+521,2025-10-29,Nasinu,Dishwashing Liquid,6,Cash,Occasional,Household,5.8,4.1,34.8,24.599999999999998,10.2,29.31
+714,2025-10-30,Nausori,Potato Chips,9,Cash,Occasional,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+1099,2025-10-30,Nausori,Rice 5kg,1,Card,Occasional,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+781,2025-10-30,Lami,Potato Chips,9,Cash,Occasional,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+1131,2025-10-30,Nasinu,Rice 5kg,1,Card,Occasional,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+882,2025-10-30,Lami,Biscuits,6,Cash,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+662,2025-10-30,Nausori,Laundry Powder,9,Cash,Regular,Household,12.0,9.0,108.0,81.0,27.0,25.0
+302,2025-10-31,Lami,Dishwashing Liquid,2,Mobile Payment,Regular,Household,5.8,4.1,11.6,8.2,3.4000000000000004,29.31
+76,2025-10-31,Lami,Laundry Powder,1,Cash,Occasional,Household,12.0,9.0,12.0,9.0,3.0,25.0
+265,2025-10-31,Nasinu,Milk 1L,5,Mobile Payment,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+324,2025-10-31,Lami,Laundry Powder,8,Card,Regular,Household,12.0,9.0,96.0,72.0,24.0,25.0
+274,2025-10-31,Lami,Milk 1L,2,Cash,Regular,Dairy,3.8,2.9,7.6,5.8,1.7999999999999998,23.68
+1021,2025-11-01,Nasinu,Sugar 2kg,4,Mobile Payment,Regular,Groceries,5.5,4.0,22.0,16.0,6.0,27.27
+405,2025-11-01,Nasinu,Dishwashing Liquid,1,Mobile Payment,Regular,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+675,2025-11-01,Nabua,Milk 1L,4,Card,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+378,2025-11-02,Nausori,Milk 1L,6,Cash,Occasional,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+792,2025-11-02,Nabua,Sugar 2kg,7,Card,Regular,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+772,2025-11-02,Lami,Cheese 500g,3,Mobile Payment,Regular,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+43,2025-11-03,Nausori,Sugar 2kg,2,Card,Regular,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+187,2025-11-03,Nabua,Biscuits,10,Card,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+425,2025-11-04,Lami,Cooking Oil 1L,4,Card,Occasional,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+798,2025-11-04,Lami,Bread,3,Card,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+248,2025-11-04,Nausori,Laundry Powder,3,Cash,Regular,Household,12.0,9.0,36.0,27.0,9.0,25.0
+1069,2025-11-05,Nabua,Sugar 2kg,7,Mobile Payment,Occasional,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+18,2025-11-05,Nausori,Dishwashing Liquid,8,Cash,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+1169,2025-11-05,Nasinu,Laundry Powder,1,Mobile Payment,Regular,Household,12.0,9.0,12.0,9.0,3.0,25.0
+294,2025-11-06,Lami,Bread,9,Card,Regular,Bakery,2.5,1.6,22.5,14.4,8.1,36.0
+68,2025-11-06,Nasinu,Rice 5kg,1,Mobile Payment,Occasional,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+741,2025-11-07,Nasinu,Biscuits,4,Cash,Occasional,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+424,2025-11-07,Nabua,Potato Chips,7,Mobile Payment,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+956,2025-11-07,Nabua,Cheese 500g,7,Mobile Payment,Occasional,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+716,2025-11-08,Lami,Milk 1L,5,Card,Regular,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+894,2025-11-08,Nasinu,Cooking Oil 1L,9,Card,Regular,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+653,2025-11-08,Nabua,Cooking Oil 1L,9,Mobile Payment,Regular,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+1164,2025-11-09,Nausori,Dishwashing Liquid,9,Cash,Regular,Household,5.8,4.1,52.199999999999996,36.9,15.299999999999997,29.31
+1172,2025-11-09,Nausori,Milk 1L,6,Mobile Payment,Occasional,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+381,2025-11-09,Nasinu,Sugar 2kg,5,Mobile Payment,Regular,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+778,2025-11-09,Nausori,Biscuits,3,Mobile Payment,Regular,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+402,2025-11-10,Lami,Cheese 500g,10,Card,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+534,2025-11-10,Nausori,Biscuits,8,Mobile Payment,Occasional,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+25,2025-11-10,Nausori,Rice 5kg,1,Cash,Regular,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+940,2025-11-11,Nausori,Cooking Oil 1L,8,Mobile Payment,Regular,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+735,2025-11-11,Nabua,Dishwashing Liquid,1,Mobile Payment,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+191,2025-11-11,Nausori,Dishwashing Liquid,7,Cash,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+380,2025-11-12,Nausori,Biscuits,10,Card,Occasional,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+1141,2025-11-12,Lami,Milk 1L,1,Card,Occasional,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+50,2025-11-12,Nabua,Sugar 2kg,6,Cash,Occasional,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+1040,2025-11-12,Nabua,Milk 1L,4,Mobile Payment,Regular,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+695,2025-11-12,Nabua,Dishwashing Liquid,8,Mobile Payment,Regular,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+846,2025-11-13,Lami,Cheese 500g,5,Card,Occasional,Dairy,9.5,7.2,47.5,36.0,11.5,24.21
+661,2025-11-13,Nabua,Rice 5kg,5,Cash,Regular,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+323,2025-11-13,Nabua,Sugar 2kg,1,Card,Regular,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+647,2025-11-13,Nabua,Bread,8,Mobile Payment,Regular,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+441,2025-11-14,Lami,Dishwashing Liquid,8,Cash,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+952,2025-11-14,Nausori,Milk 1L,3,Mobile Payment,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+197,2025-11-14,Nasinu,Potato Chips,1,Cash,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+1023,2025-11-14,Lami,Bread,3,Cash,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+184,2025-11-14,Nabua,Laundry Powder,3,Mobile Payment,Occasional,Household,12.0,9.0,36.0,27.0,9.0,25.0
+434,2025-11-15,Nasinu,Rice 5kg,1,Card,Regular,Groceries,18.5,14.0,18.5,14.0,4.5,24.32
+869,2025-11-15,Nabua,Potato Chips,6,Mobile Payment,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+1013,2025-11-15,Lami,Laundry Powder,5,Card,Regular,Household,12.0,9.0,60.0,45.0,15.0,25.0
+1166,2025-11-15,Lami,Cooking Oil 1L,4,Cash,Regular,Groceries,7.8,5.9,31.2,23.6,7.599999999999998,24.36
+1033,2025-11-16,Nabua,Milk 1L,10,Card,Occasional,Dairy,3.8,2.9,38.0,29.0,9.0,23.68
+41,2025-11-16,Nabua,Laundry Powder,4,Card,Regular,Household,12.0,9.0,48.0,36.0,12.0,25.0
+1031,2025-11-16,Nabua,Cheese 500g,9,Cash,Occasional,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+995,2025-11-16,Nausori,Laundry Powder,6,Cash,Occasional,Household,12.0,9.0,72.0,54.0,18.0,25.0
+938,2025-11-16,Nausori,Sugar 2kg,2,Card,Regular,Groceries,5.5,4.0,11.0,8.0,3.0,27.27
+1012,2025-11-17,Nasinu,Milk 1L,6,Cash,Regular,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+620,2025-11-17,Lami,Potato Chips,7,Mobile Payment,Occasional,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+385,2025-11-17,Nausori,Biscuits,6,Card,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+1090,2025-11-18,Nasinu,Rice 5kg,10,Cash,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+966,2025-11-18,Nausori,Cooking Oil 1L,1,Cash,Regular,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+391,2025-11-18,Nasinu,Biscuits,10,Mobile Payment,Regular,Snacks,4.2,2.8,42.0,28.0,14.0,33.33
+512,2025-11-19,Nasinu,Sugar 2kg,8,Mobile Payment,Regular,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+358,2025-11-19,Nausori,Potato Chips,7,Mobile Payment,Occasional,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+351,2025-11-19,Nausori,Cheese 500g,9,Mobile Payment,Occasional,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+1144,2025-11-20,Lami,Sugar 2kg,9,Mobile Payment,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+222,2025-11-20,Nasinu,Bread,7,Card,Occasional,Bakery,2.5,1.6,17.5,11.200000000000001,6.299999999999999,36.0
+1110,2025-11-20,Lami,Laundry Powder,6,Card,Occasional,Household,12.0,9.0,72.0,54.0,18.0,25.0
+984,2025-11-20,Nausori,Potato Chips,5,Mobile Payment,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+487,2025-11-21,Lami,Bread,9,Cash,Regular,Bakery,2.5,1.6,22.5,14.4,8.1,36.0
+496,2025-11-21,Nausori,Rice 5kg,5,Mobile Payment,Occasional,Groceries,18.5,14.0,92.5,70.0,22.5,24.32
+229,2025-11-21,Nabua,Bread,8,Card,Regular,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+982,2025-11-22,Nabua,Laundry Powder,2,Cash,Occasional,Household,12.0,9.0,24.0,18.0,6.0,25.0
+848,2025-11-22,Nasinu,Potato Chips,5,Cash,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+408,2025-11-22,Nasinu,Cheese 500g,1,Card,Regular,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+238,2025-11-22,Nabua,Biscuits,7,Card,Regular,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+97,2025-11-23,Nabua,Laundry Powder,4,Cash,Occasional,Household,12.0,9.0,48.0,36.0,12.0,25.0
+623,2025-11-23,Nausori,Dishwashing Liquid,8,Cash,Regular,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+154,2025-11-23,Nausori,Milk 1L,7,Mobile Payment,Regular,Dairy,3.8,2.9,26.599999999999998,20.3,6.299999999999997,23.68
+1147,2025-11-24,Nabua,Milk 1L,6,Mobile Payment,Regular,Dairy,3.8,2.9,22.799999999999997,17.4,5.399999999999999,23.68
+1055,2025-11-24,Lami,Potato Chips,9,Mobile Payment,Occasional,Snacks,3.5,2.2,31.5,19.8,11.7,37.14
+113,2025-11-24,Nausori,Sugar 2kg,1,Mobile Payment,Regular,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+1035,2025-11-24,Nabua,Cooking Oil 1L,8,Card,Occasional,Groceries,7.8,5.9,62.4,47.2,15.199999999999996,24.36
+1015,2025-11-25,Lami,Cooking Oil 1L,1,Cash,Regular,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+46,2025-11-25,Nabua,Bread,8,Card,Regular,Bakery,2.5,1.6,20.0,12.8,7.199999999999999,36.0
+1125,2025-11-26,Nasinu,Rice 5kg,10,Card,Occasional,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+1094,2025-11-26,Lami,Milk 1L,3,Mobile Payment,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+811,2025-11-26,Nausori,Cooking Oil 1L,9,Cash,Occasional,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+515,2025-11-26,Nasinu,Potato Chips,5,Mobile Payment,Occasional,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+683,2025-11-26,Nausori,Cooking Oil 1L,9,Mobile Payment,Regular,Groceries,7.8,5.9,70.2,53.1,17.1,24.36
+951,2025-11-27,Nausori,Cooking Oil 1L,2,Mobile Payment,Regular,Groceries,7.8,5.9,15.6,11.8,3.799999999999999,24.36
+598,2025-11-27,Nabua,Cheese 500g,7,Mobile Payment,Occasional,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+11,2025-11-27,Nabua,Biscuits,9,Cash,Occasional,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+170,2025-11-27,Nabua,Rice 5kg,6,Cash,Regular,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+1111,2025-11-28,Nabua,Laundry Powder,1,Card,Regular,Household,12.0,9.0,12.0,9.0,3.0,25.0
+1000,2025-11-29,Nausori,Laundry Powder,7,Card,Regular,Household,12.0,9.0,84.0,63.0,21.0,25.0
+1025,2025-11-30,Lami,Potato Chips,5,Card,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+970,2025-12-01,Nabua,Bread,3,Card,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+976,2025-12-01,Nasinu,Cheese 500g,7,Card,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+796,2025-12-01,Nausori,Cheese 500g,2,Card,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+801,2025-12-01,Nasinu,Dishwashing Liquid,4,Cash,Occasional,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+500,2025-12-02,Lami,Laundry Powder,2,Mobile Payment,Occasional,Household,12.0,9.0,24.0,18.0,6.0,25.0
+827,2025-12-02,Nasinu,Dishwashing Liquid,7,Cash,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+526,2025-12-03,Nasinu,Milk 1L,4,Card,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+872,2025-12-03,Nasinu,Rice 5kg,6,Mobile Payment,Occasional,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+794,2025-12-04,Lami,Dishwashing Liquid,7,Mobile Payment,Occasional,Household,5.8,4.1,40.6,28.699999999999996,11.900000000000006,29.31
+251,2025-12-04,Lami,Potato Chips,6,Mobile Payment,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+292,2025-12-04,Nasinu,Sugar 2kg,6,Mobile Payment,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+85,2025-12-04,Nasinu,Laundry Powder,3,Mobile Payment,Occasional,Household,12.0,9.0,36.0,27.0,9.0,25.0
+577,2025-12-05,Nausori,Potato Chips,4,Mobile Payment,Regular,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+1046,2025-12-05,Nabua,Potato Chips,1,Mobile Payment,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+617,2025-12-05,Nasinu,Bread,3,Cash,Regular,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+504,2025-12-06,Nabua,Sugar 2kg,8,Cash,Occasional,Groceries,5.5,4.0,44.0,32.0,12.0,27.27
+813,2025-12-06,Lami,Biscuits,6,Mobile Payment,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+56,2025-12-06,Lami,Bread,10,Cash,Regular,Bakery,2.5,1.6,25.0,16.0,9.0,36.0
+285,2025-12-06,Nasinu,Laundry Powder,6,Card,Regular,Household,12.0,9.0,72.0,54.0,18.0,25.0
+168,2025-12-06,Lami,Sugar 2kg,7,Mobile Payment,Regular,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+476,2025-12-07,Lami,Milk 1L,8,Mobile Payment,Regular,Dairy,3.8,2.9,30.4,23.2,7.199999999999999,23.68
+730,2025-12-07,Lami,Laundry Powder,1,Cash,Occasional,Household,12.0,9.0,12.0,9.0,3.0,25.0
+784,2025-12-07,Nabua,Laundry Powder,7,Mobile Payment,Regular,Household,12.0,9.0,84.0,63.0,21.0,25.0
+565,2025-12-08,Lami,Biscuits,9,Mobile Payment,Occasional,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+364,2025-12-08,Nausori,Cheese 500g,4,Card,Regular,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+621,2025-12-08,Nasinu,Biscuits,7,Card,Regular,Snacks,4.2,2.8,29.400000000000002,19.599999999999998,9.800000000000004,33.33
+734,2025-12-08,Nausori,Sugar 2kg,9,Card,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+404,2025-12-08,Nabua,Cheese 500g,6,Card,Regular,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+394,2025-12-08,Nabua,Bread,3,Card,Occasional,Bakery,2.5,1.6,7.5,4.800000000000001,2.6999999999999993,36.0
+211,2025-12-09,Nabua,Potato Chips,4,Cash,Occasional,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+99,2025-12-10,Lami,Cooking Oil 1L,1,Card,Regular,Groceries,7.8,5.9,7.8,5.9,1.8999999999999995,24.36
+1194,2025-12-10,Lami,Cheese 500g,10,Card,Occasional,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+20,2025-12-10,Lami,Potato Chips,7,Card,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+96,2025-12-11,Lami,Cheese 500g,2,Mobile Payment,Occasional,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+29,2025-12-11,Lami,Cheese 500g,2,Cash,Regular,Dairy,9.5,7.2,19.0,14.4,4.6,24.21
+243,2025-12-12,Lami,Milk 1L,9,Mobile Payment,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+261,2025-12-12,Nausori,Potato Chips,4,Mobile Payment,Occasional,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+853,2025-12-12,Lami,Milk 1L,1,Mobile Payment,Occasional,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+1161,2025-12-12,Nasinu,Dishwashing Liquid,8,Card,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+1132,2025-12-12,Nasinu,Dishwashing Liquid,9,Mobile Payment,Occasional,Household,5.8,4.1,52.199999999999996,36.9,15.299999999999997,29.31
+438,2025-12-12,Lami,Rice 5kg,8,Cash,Regular,Groceries,18.5,14.0,148.0,112.0,36.0,24.32
+136,2025-12-12,Nausori,Biscuits,4,Card,Regular,Snacks,4.2,2.8,16.8,11.2,5.600000000000001,33.33
+54,2025-12-12,Lami,Rice 5kg,6,Mobile Payment,Regular,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+636,2025-12-12,Nasinu,Biscuits,9,Mobile Payment,Regular,Snacks,4.2,2.8,37.800000000000004,25.2,12.600000000000005,33.33
+797,2025-12-13,Lami,Sugar 2kg,7,Mobile Payment,Regular,Groceries,5.5,4.0,38.5,28.0,10.5,27.27
+1183,2025-12-13,Nausori,Rice 5kg,10,Cash,Regular,Groceries,18.5,14.0,185.0,140.0,45.0,24.32
+650,2025-12-14,Nabua,Bread,4,Cash,Regular,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+172,2025-12-14,Nasinu,Sugar 2kg,3,Cash,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+690,2025-12-14,Nabua,Cheese 500g,3,Cash,Occasional,Dairy,9.5,7.2,28.5,21.6,6.899999999999999,24.21
+763,2025-12-14,Lami,Rice 5kg,7,Cash,Occasional,Groceries,18.5,14.0,129.5,98.0,31.5,24.32
+340,2025-12-15,Lami,Sugar 2kg,3,Cash,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+1034,2025-12-15,Lami,Cheese 500g,4,Cash,Regular,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+291,2025-12-15,Nasinu,Milk 1L,9,Cash,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+2,2025-12-15,Nabua,Cheese 500g,6,Mobile Payment,Regular,Dairy,9.5,7.2,57.0,43.2,13.799999999999997,24.21
+461,2025-12-15,Lami,Potato Chips,7,Mobile Payment,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+239,2025-12-15,Nausori,Milk 1L,5,Cash,Occasional,Dairy,3.8,2.9,19.0,14.5,4.5,23.68
+421,2025-12-16,Nausori,Sugar 2kg,1,Cash,Occasional,Groceries,5.5,4.0,5.5,4.0,1.5,27.27
+950,2025-12-16,Nausori,Biscuits,8,Mobile Payment,Occasional,Snacks,4.2,2.8,33.6,22.4,11.200000000000003,33.33
+953,2025-12-16,Nasinu,Dishwashing Liquid,10,Mobile Payment,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+867,2025-12-16,Lami,Cooking Oil 1L,7,Cash,Regular,Groceries,7.8,5.9,54.6,41.300000000000004,13.299999999999997,24.36
+75,2025-12-17,Nasinu,Sugar 2kg,9,Card,Regular,Groceries,5.5,4.0,49.5,36.0,13.5,27.27
+744,2025-12-17,Nasinu,Potato Chips,3,Cash,Occasional,Snacks,3.5,2.2,10.5,6.6000000000000005,3.8999999999999995,37.14
+140,2025-12-18,Nausori,Bread,4,Mobile Payment,Occasional,Bakery,2.5,1.6,10.0,6.4,3.5999999999999996,36.0
+246,2025-12-18,Nasinu,Biscuits,3,Mobile Payment,Occasional,Snacks,4.2,2.8,12.600000000000001,8.399999999999999,4.200000000000003,33.33
+834,2025-12-18,Lami,Potato Chips,8,Cash,Regular,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+1095,2025-12-19,Lami,Potato Chips,6,Cash,Regular,Snacks,3.5,2.2,21.0,13.200000000000001,7.799999999999999,37.14
+1062,2025-12-19,Nabua,Milk 1L,3,Cash,Regular,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+390,2025-12-20,Nausori,Cheese 500g,4,Cash,Occasional,Dairy,9.5,7.2,38.0,28.8,9.2,24.21
+423,2025-12-21,Nasinu,Sugar 2kg,10,Cash,Regular,Groceries,5.5,4.0,55.0,40.0,15.0,27.27
+878,2025-12-21,Nausori,Bread,5,Cash,Regular,Bakery,2.5,1.6,12.5,8.0,4.5,36.0
+377,2025-12-21,Nabua,Milk 1L,1,Cash,Occasional,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+558,2025-12-21,Nausori,Cheese 500g,8,Card,Occasional,Dairy,9.5,7.2,76.0,57.6,18.4,24.21
+999,2025-12-22,Nausori,Biscuits,6,Card,Occasional,Snacks,4.2,2.8,25.200000000000003,16.799999999999997,8.400000000000006,33.33
+1143,2025-12-22,Nasinu,Sugar 2kg,6,Cash,Regular,Groceries,5.5,4.0,33.0,24.0,9.0,27.27
+482,2025-12-23,Nasinu,Cheese 500g,1,Mobile Payment,Occasional,Dairy,9.5,7.2,9.5,7.2,2.3,24.21
+699,2025-12-23,Nasinu,Dishwashing Liquid,5,Cash,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+541,2025-12-23,Lami,Potato Chips,4,Mobile Payment,Occasional,Snacks,3.5,2.2,14.0,8.8,5.199999999999999,37.14
+746,2025-12-24,Nausori,Potato Chips,1,Card,Occasional,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+686,2025-12-24,Nausori,Dishwashing Liquid,10,Cash,Regular,Household,5.8,4.1,58.0,41.0,17.0,29.31
+132,2025-12-25,Nasinu,Bread,1,Mobile Payment,Regular,Bakery,2.5,1.6,2.5,1.6,0.8999999999999999,36.0
+181,2025-12-25,Nabua,Dishwashing Liquid,8,Mobile Payment,Occasional,Household,5.8,4.1,46.4,32.8,13.600000000000001,29.31
+122,2025-12-26,Nasinu,Potato Chips,5,Mobile Payment,Regular,Snacks,3.5,2.2,17.5,11.0,6.5,37.14
+252,2025-12-26,Lami,Milk 1L,1,Cash,Occasional,Dairy,3.8,2.9,3.8,2.9,0.8999999999999999,23.68
+14,2025-12-26,Nausori,Dishwashing Liquid,1,Mobile Payment,Occasional,Household,5.8,4.1,5.8,4.1,1.7000000000000002,29.31
+1126,2025-12-26,Nausori,Potato Chips,1,Cash,Regular,Snacks,3.5,2.2,3.5,2.2,1.2999999999999998,37.14
+359,2025-12-26,Nabua,Laundry Powder,2,Cash,Regular,Household,12.0,9.0,24.0,18.0,6.0,25.0
+830,2025-12-26,Lami,Sugar 2kg,3,Mobile Payment,Occasional,Groceries,5.5,4.0,16.5,12.0,4.5,27.27
+63,2025-12-26,Nabua,Cheese 500g,7,Cash,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+648,2025-12-27,Nausori,Potato Chips,8,Mobile Payment,Regular,Snacks,3.5,2.2,28.0,17.6,10.399999999999999,37.14
+1037,2025-12-27,Nabua,Cheese 500g,7,Card,Regular,Dairy,9.5,7.2,66.5,50.4,16.1,24.21
+559,2025-12-27,Lami,Rice 5kg,6,Cash,Regular,Groceries,18.5,14.0,111.0,84.0,27.0,24.32
+899,2025-12-29,Lami,Sugar 2kg,5,Card,Regular,Groceries,5.5,4.0,27.5,20.0,7.5,27.27
+1134,2025-12-29,Lami,Dishwashing Liquid,5,Cash,Regular,Household,5.8,4.1,29.0,20.5,8.5,29.31
+1186,2025-12-30,Nausori,Cheese 500g,9,Cash,Occasional,Dairy,9.5,7.2,85.5,64.8,20.700000000000003,24.21
+631,2025-12-30,Nabua,Milk 1L,4,Cash,Occasional,Dairy,3.8,2.9,15.2,11.6,3.5999999999999996,23.68
+38,2025-12-30,Nausori,Laundry Powder,8,Cash,Occasional,Household,12.0,9.0,96.0,72.0,24.0,25.0
+1101,2025-12-31,Nausori,Milk 1L,3,Card,Occasional,Dairy,3.8,2.9,11.399999999999999,8.7,2.6999999999999993,23.68
+619,2025-12-31,Nausori,Bread,7,Card,Occasional,Bakery,2.5,1.6,17.5,11.200000000000001,6.299999999999999,36.0
+941,2025-12-31,Nausori,Potato Chips,7,Mobile Payment,Regular,Snacks,3.5,2.2,24.5,15.400000000000002,9.099999999999998,37.14
+420,2025-12-31,Nausori,Milk 1L,9,Card,Occasional,Dairy,3.8,2.9,34.199999999999996,26.099999999999998,8.099999999999998,23.68
+890,2025-12-31,Nasinu,Dishwashing Liquid,4,Mobile Payment,Regular,Household,5.8,4.1,23.2,16.4,6.800000000000001,29.31
+313,2025-12-31,Nausori,Cheese 500g,10,Mobile Payment,Regular,Dairy,9.5,7.2,95.0,72.0,23.0,24.21
+720,2025-12-31,Lami,Bread,9,Mobile Payment,Regular,Bakery,2.5,1.6,22.5,14.4,8.1,36.0
